@@ -1,0 +1,1276 @@
+2023-10-30 14:26:07,767 - root - INFO - Fetched historical data
+2023-10-30 14:26:08,728 - websocket - INFO - Websocket connected
+2023-10-30 14:26:08,728 - root - INFO - Websocket opened
+2023-10-30 14:26:08,991 - root - INFO - Received a message
+2023-10-30 14:26:09,124 - root - INFO - Received a message
+2023-10-30 14:26:09,238 - root - INFO - Received a message
+2023-10-30 14:26:09,241 - root - INFO - Received a message
+2023-10-30 14:26:13,779 - root - INFO - Received a message
+2023-10-30 14:26:14,386 - root - INFO - Received a message
+2023-10-30 14:26:14,392 - root - INFO - Received a message
+2023-10-30 14:26:14,917 - root - INFO - Received a message
+2023-10-30 14:26:15,016 - root - INFO - Received a message
+2023-10-30 14:26:15,292 - root - INFO - Received a message
+2023-10-30 14:26:15,679 - root - INFO - Received a message
+2023-10-30 14:26:15,916 - root - INFO - Received a message
+2023-10-30 14:26:17,047 - root - INFO - Received a message
+2023-10-30 14:26:17,050 - root - INFO - Received a message
+2023-10-30 14:26:17,781 - root - INFO - Received a message
+2023-10-30 14:26:18,339 - root - INFO - Received a message
+2023-10-30 14:26:20,001 - root - INFO - Received a message
+2023-10-30 14:26:21,558 - root - INFO - Received a message
+2023-10-30 14:26:21,640 - root - INFO - Received a message
+2023-10-30 14:26:22,266 - root - INFO - Received a message
+2023-10-30 14:26:27,050 - root - INFO - Received a message
+2023-10-30 14:26:31,835 - root - INFO - Received a message
+2023-10-30 14:26:31,838 - root - INFO - Received a message
+2023-10-30 14:26:31,840 - root - INFO - Received a message
+2023-10-30 14:26:31,842 - root - INFO - Received a message
+2023-10-30 14:26:32,003 - root - INFO - Received a message
+2023-10-30 14:26:32,028 - root - INFO - Received a message
+2023-10-30 14:26:32,079 - root - INFO - Received a message
+2023-10-30 14:26:32,110 - root - INFO - Received a message
+2023-10-30 14:26:32,141 - root - INFO - Received a message
+2023-10-30 14:26:32,157 - root - INFO - Received a message
+2023-10-30 14:26:32,160 - root - INFO - Received a message
+2023-10-30 14:26:32,162 - root - INFO - Received a message
+2023-10-30 14:26:32,164 - root - INFO - Received a message
+2023-10-30 14:26:32,166 - root - INFO - Received a message
+2023-10-30 14:26:32,168 - root - INFO - Received a message
+2023-10-30 14:26:32,179 - root - INFO - Received a message
+2023-10-30 14:26:32,189 - root - INFO - Received a message
+2023-10-30 14:26:32,231 - root - INFO - Received a message
+2023-10-30 14:26:32,233 - root - INFO - Received a message
+2023-10-30 14:26:32,235 - root - INFO - Received a message
+2023-10-30 14:26:32,237 - root - INFO - Received a message
+2023-10-30 14:26:32,239 - root - INFO - Received a message
+2023-10-30 14:26:32,241 - root - INFO - Received a message
+2023-10-30 14:26:32,243 - root - INFO - Received a message
+2023-10-30 14:26:32,245 - root - INFO - Received a message
+2023-10-30 14:26:32,248 - root - INFO - Received a message
+2023-10-30 14:26:32,262 - root - INFO - Received a message
+2023-10-30 14:26:32,266 - root - INFO - Overbought RSI: 89.62525905379498
+2023-10-30 14:26:32,266 - root - INFO - MACD crossover: 1.085051276066224 (MACD) > 0.940581521453183 (Signal)
+2023-10-30 14:26:32,266 - root - INFO - Price above upper Bollinger Band: 34369.7 > 34369.11974694881
+2023-10-30 14:26:32,267 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:32,267 - root - INFO - Stochastic Crossover: %K = 100.0 > %D = 66.66666666666667
+2023-10-30 14:26:33,319 - root - INFO - Received a message
+2023-10-30 14:26:33,322 - root - INFO - Overbought RSI: 90.45288558196947
+2023-10-30 14:26:33,322 - root - INFO - MACD crossover: 1.1760358010506025 (MACD) > 0.9876723773726669 (Signal)
+2023-10-30 14:26:33,323 - root - INFO - Price above upper Bollinger Band: 34370.0 > 34369.5523412971
+2023-10-30 14:26:33,323 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:33,323 - root - INFO - Stochastic Crossover: %K = 100.0 > %D = 88.8888888888889
+2023-10-30 14:26:33,323 - root - INFO - Received a message
+2023-10-30 14:26:33,326 - root - INFO - Overbought RSI: 92.73984776251521
+2023-10-30 14:26:33,326 - root - INFO - MACD crossover: 1.321667143405648 (MACD) > 1.054471330579263 (Signal)
+2023-10-30 14:26:33,326 - root - INFO - Price above upper Bollinger Band: 34371.1 > 34370.218667702575
+2023-10-30 14:26:33,326 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:33,327 - root - INFO - Received a message
+2023-10-30 14:26:33,329 - root - INFO - Overbought RSI: 92.73984776251521
+2023-10-30 14:26:33,330 - root - INFO - MACD crossover: 1.4207040396286175 (MACD) > 1.127717872389134 (Signal)
+2023-10-30 14:26:33,330 - root - INFO - Price above upper Bollinger Band: 34371.1 > 34370.74005275439
+2023-10-30 14:26:33,330 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:33,330 - root - INFO - Received a message
+2023-10-30 14:26:33,333 - root - INFO - Overbought RSI: 92.73984776251521
+2023-10-30 14:26:33,333 - root - INFO - MACD crossover: 1.48210669006221 (MACD) > 1.198595635923749 (Signal)
+2023-10-30 14:26:33,333 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:33,334 - root - INFO - Received a message
+2023-10-30 14:26:33,336 - root - INFO - Overbought RSI: 92.73984776251521
+2023-10-30 14:26:33,336 - root - INFO - MACD crossover: 1.5133240749928518 (MACD) > 1.2615413237375697 (Signal)
+2023-10-30 14:26:33,337 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:33,339 - root - INFO - Received a message
+2023-10-30 14:26:33,342 - root - INFO - Overbought RSI: 93.97515933410733
+2023-10-30 14:26:33,342 - root - INFO - MACD crossover: 1.576376737539249 (MACD) > 1.3245084064979056 (Signal)
+2023-10-30 14:26:33,342 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:33,359 - root - INFO - Received a message
+2023-10-30 14:26:33,362 - root - INFO - Overbought RSI: 95.83057882527743
+2023-10-30 14:26:33,363 - root - INFO - MACD crossover: 1.7434251000740915 (MACD) > 1.4082917452131427 (Signal)
+2023-10-30 14:26:33,363 - root - INFO - Price above upper Bollinger Band: 34373.5 > 34372.9546975133
+2023-10-30 14:26:33,363 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:33,363 - root - INFO - Received a message
+2023-10-30 14:26:33,366 - root - INFO - Overbought RSI: 96.06110887398867
+2023-10-30 14:26:33,366 - root - INFO - MACD crossover: 1.8783669784170343 (MACD) > 1.502306791853921 (Signal)
+2023-10-30 14:26:33,366 - root - INFO - Price above upper Bollinger Band: 34373.8 > 34373.715788899564
+2023-10-30 14:26:33,366 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:33,705 - root - INFO - Received a message
+2023-10-30 14:26:33,709 - root - INFO - Overbought RSI: 96.21149676237988
+2023-10-30 14:26:33,709 - root - INFO - MACD crossover: 1.9786391967354575 (MACD) > 1.5975732728302283 (Signal)
+2023-10-30 14:26:33,709 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:33,824 - root - INFO - Received a message
+2023-10-30 14:26:33,828 - root - INFO - Overbought RSI: 96.21149676237987
+2023-10-30 14:26:33,828 - root - INFO - MACD crossover: 2.0346514567136182 (MACD) > 1.6849889096069064 (Signal)
+2023-10-30 14:26:33,828 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:33,880 - root - INFO - Received a message
+2023-10-30 14:26:33,883 - root - INFO - Overbought RSI: 96.21149676237987
+2023-10-30 14:26:33,883 - root - INFO - MACD crossover: 2.055348794798192 (MACD) > 1.7590608866451636 (Signal)
+2023-10-30 14:26:33,883 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:34,241 - root - INFO - Received a message
+2023-10-30 14:26:34,244 - root - INFO - Overbought RSI: 97.05430981494871
+2023-10-30 14:26:34,244 - root - INFO - MACD crossover: 2.143868375409511 (MACD) > 1.836022384398033 (Signal)
+2023-10-30 14:26:34,244 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:35,064 - root - INFO - Received a message
+2023-10-30 14:26:35,067 - root - INFO - Overbought RSI: 95.15455904801729
+2023-10-30 14:26:35,067 - root - INFO - MACD crossover: 2.18081256676669 (MACD) > 1.9049804208717644 (Signal)
+2023-10-30 14:26:35,068 - root - INFO - Stochastic Overbought: %K = 97.2222222222559
+2023-10-30 14:26:35,068 - root - INFO - Stochastic Crossunder: %K = 97.2222222222559 < %D = 99.07407407408529
+2023-10-30 14:26:35,116 - root - INFO - Received a message
+2023-10-30 14:26:35,119 - root - INFO - Overbought RSI: 95.25459131409667
+2023-10-30 14:26:35,120 - root - INFO - MACD crossover: 2.1928820891480427 (MACD) > 1.96256075452702 (Signal)
+2023-10-30 14:26:35,120 - root - INFO - Stochastic Overbought: %K = 97.2222222222559
+2023-10-30 14:26:35,120 - root - INFO - Stochastic Crossunder: %K = 97.2222222222559 < %D = 98.14814814817059
+2023-10-30 14:26:35,528 - root - INFO - Received a message
+2023-10-30 14:26:35,532 - root - INFO - Overbought RSI: 95.25459131409666
+2023-10-30 14:26:35,532 - root - INFO - MACD crossover: 2.1773481583732064 (MACD) > 2.0055182352962575 (Signal)
+2023-10-30 14:26:35,532 - root - INFO - Stochastic Overbought: %K = 97.2222222222559
+2023-10-30 14:26:35,532 - root - INFO - Stochastic Crossover: %K = 97.2222222222559 > %D = 97.22222222225588
+2023-10-30 14:26:35,540 - root - INFO - Received a message
+2023-10-30 14:26:35,543 - root - INFO - Overbought RSI: 95.47144452467587
+2023-10-30 14:26:35,543 - root - INFO - MACD crossover: 2.1563190313172527 (MACD) > 2.0356783945004566 (Signal)
+2023-10-30 14:26:35,543 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:35,543 - root - INFO - Stochastic Crossover: %K = 100.0 > %D = 98.14814814817059
+2023-10-30 14:26:35,699 - root - INFO - Received a message
+2023-10-30 14:26:35,702 - root - INFO - Overbought RSI: 95.7827571864746
+2023-10-30 14:26:35,702 - root - INFO - MACD crossover: 2.139201407197106 (MACD) > 2.0563829970397864 (Signal)
+2023-10-30 14:26:35,703 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:35,703 - root - INFO - Stochastic Crossover: %K = 100.0 > %D = 99.07407407408529
+2023-10-30 14:26:35,708 - root - INFO - Received a message
+2023-10-30 14:26:35,711 - root - INFO - Overbought RSI: 96.9220844309184
+2023-10-30 14:26:35,711 - root - INFO - MACD crossover: 2.22106991927285 (MACD) > 2.089320381486399 (Signal)
+2023-10-30 14:26:35,711 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:36,010 - root - INFO - Received a message
+2023-10-30 14:26:36,013 - root - INFO - Overbought RSI: 96.9220844309184
+2023-10-30 14:26:36,013 - root - INFO - MACD crossover: 2.2599005778029095 (MACD) > 2.123436420749701 (Signal)
+2023-10-30 14:26:36,014 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:36,078 - root - INFO - Received a message
+2023-10-30 14:26:36,082 - root - INFO - Overbought RSI: 96.98506064721578
+2023-10-30 14:26:36,082 - root - INFO - MACD crossover: 2.2725468136486597 (MACD) > 2.153258499329493 (Signal)
+2023-10-30 14:26:36,082 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:36,082 - root - INFO - Received a message
+2023-10-30 14:26:36,085 - root - INFO - Overbought RSI: 97.22926816583883
+2023-10-30 14:26:36,085 - root - INFO - MACD crossover: 2.288465695717605 (MACD) > 2.1802999386071154 (Signal)
+2023-10-30 14:26:36,085 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:36,456 - root - INFO - Received a message
+2023-10-30 14:26:36,460 - root - INFO - Overbought RSI: 95.15419655440796
+2023-10-30 14:26:36,460 - root - INFO - MACD crossover: 2.266881165189261 (MACD) > 2.1976161839235444 (Signal)
+2023-10-30 14:26:36,460 - root - INFO - Stochastic Overbought: %K = 93.33333333343035
+2023-10-30 14:26:36,460 - root - INFO - Stochastic Crossunder: %K = 93.33333333343035 < %D = 97.77777777781012
+2023-10-30 14:26:36,499 - root - INFO - Received a message
+2023-10-30 14:26:36,502 - root - INFO - Overbought RSI: 95.5621867866508
+2023-10-30 14:26:36,502 - root - INFO - MACD crossover: 2.2560456365390564 (MACD) > 2.2093020744466467 (Signal)
+2023-10-30 14:26:36,502 - root - INFO - Stochastic Overbought: %K = 93.33333333343035
+2023-10-30 14:26:36,502 - root - INFO - Stochastic Crossunder: %K = 93.33333333343035 < %D = 95.55555555562023
+2023-10-30 14:26:36,502 - root - INFO - Received a message
+2023-10-30 14:26:36,505 - root - INFO - Overbought RSI: 96.51118921822247
+2023-10-30 14:26:36,505 - root - INFO - MACD crossover: 2.317572836189356 (MACD) > 2.230956226795189 (Signal)
+2023-10-30 14:26:36,506 - root - INFO - Stochastic Overbought: %K = 93.33333333343035
+2023-10-30 14:26:36,507 - root - INFO - Received a message
+2023-10-30 14:26:36,510 - root - INFO - Overbought RSI: 94.6939012435662
+2023-10-30 14:26:36,510 - root - INFO - MACD crossover: 2.331389612707426 (MACD) > 2.2510429039776363 (Signal)
+2023-10-30 14:26:36,510 - root - INFO - Stochastic Overbought: %K = 97.9166666666951
+2023-10-30 14:26:36,510 - root - INFO - Stochastic Crossover: %K = 97.9166666666951 > %D = 94.86111111118527
+2023-10-30 14:26:36,653 - root - INFO - Received a message
+2023-10-30 14:26:36,656 - root - INFO - Overbought RSI: 94.79936116983842
+2023-10-30 14:26:36,657 - root - INFO - MACD crossover: 2.3236233878924395 (MACD) > 2.265559000760597 (Signal)
+2023-10-30 14:26:36,657 - root - INFO - Stochastic Overbought: %K = 97.9166666666951
+2023-10-30 14:26:36,657 - root - INFO - Stochastic Crossover: %K = 97.9166666666951 > %D = 96.38888888894019
+2023-10-30 14:26:37,809 - root - INFO - Received a message
+2023-10-30 14:26:37,812 - root - INFO - Overbought RSI: 94.79936116983842
+2023-10-30 14:26:37,812 - root - INFO - MACD crossover: 2.291058700211579 (MACD) > 2.2706589406507933 (Signal)
+2023-10-30 14:26:37,813 - root - INFO - Stochastic Overbought: %K = 97.9166666666951
+2023-10-30 14:26:37,813 - root - INFO - Stochastic Crossunder: %K = 97.9166666666951 < %D = 97.91666666669511
+2023-10-30 14:26:38,131 - root - INFO - Received a message
+2023-10-30 14:26:38,134 - root - INFO - Overbought RSI: 94.79936116983842
+2023-10-30 14:26:38,134 - root - INFO - MACD crossunder: 2.2394361249680514 (MACD) < 2.264414377514245 (Signal)
+2023-10-30 14:26:38,134 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:38,134 - root - INFO - Stochastic Crossover: %K = 100.0 > %D = 98.61111111113007
+2023-10-30 14:26:39,005 - root - INFO - Received a message
+2023-10-30 14:26:39,012 - root - INFO - Overbought RSI: 96.52473739036714
+2023-10-30 14:26:39,012 - root - INFO - MACD crossover: 2.333014607320365 (MACD) > 2.278134423475469 (Signal)
+2023-10-30 14:26:39,012 - root - INFO - Price above upper Bollinger Band: 34381.2 > 34381.065630710735
+2023-10-30 14:26:39,012 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:39,012 - root - INFO - Stochastic Crossover: %K = 100.0 > %D = 99.30555555556504
+2023-10-30 14:26:39,013 - root - INFO - Received a message
+2023-10-30 14:26:39,015 - root - INFO - Overbought RSI: 96.91101192135532
+2023-10-30 14:26:39,016 - root - INFO - MACD crossover: 2.4355844768870156 (MACD) > 2.3096244341577785 (Signal)
+2023-10-30 14:26:39,016 - root - INFO - Price above upper Bollinger Band: 34381.9 > 34381.71416937973
+2023-10-30 14:26:39,016 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:39,020 - root - INFO - Received a message
+2023-10-30 14:26:39,026 - root - INFO - Overbought RSI: 97.66851093711718
+2023-10-30 14:26:39,026 - root - INFO - MACD crossover: 2.6397564889193745 (MACD) > 2.3756508451100977 (Signal)
+2023-10-30 14:26:39,027 - root - INFO - Price above upper Bollinger Band: 34383.8 > 34382.713963145834
+2023-10-30 14:26:39,027 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:39,043 - root - INFO - Received a message
+2023-10-30 14:26:39,050 - root - INFO - Overbought RSI: 97.66851093711718
+2023-10-30 14:26:39,050 - root - INFO - MACD crossover: 2.769637620978756 (MACD) > 2.4544482002838293 (Signal)
+2023-10-30 14:26:39,050 - root - INFO - Price above upper Bollinger Band: 34383.8 > 34383.59648289279
+2023-10-30 14:26:39,050 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:39,051 - root - INFO - Received a message
+2023-10-30 14:26:39,053 - root - INFO - Overbought RSI: 96.22810945365006
+2023-10-30 14:26:39,054 - root - INFO - MACD crossover: 2.831856312812306 (MACD) > 2.5299298227895246 (Signal)
+2023-10-30 14:26:39,054 - root - INFO - Stochastic Overbought: %K = 98.71794871787695
+2023-10-30 14:26:39,054 - root - INFO - Stochastic Crossunder: %K = 98.71794871787695 < %D = 99.57264957262565
+2023-10-30 14:26:39,055 - root - INFO - Received a message
+2023-10-30 14:26:39,060 - root - INFO - Overbought RSI: 96.28707921371009
+2023-10-30 14:26:39,060 - root - INFO - MACD crossover: 2.856308492308017 (MACD) > 2.595205556693223 (Signal)
+2023-10-30 14:26:39,060 - root - INFO - Stochastic Overbought: %K = 98.71794871787695
+2023-10-30 14:26:39,060 - root - INFO - Stochastic Crossunder: %K = 98.71794871787695 < %D = 99.14529914525129
+2023-10-30 14:26:39,060 - root - INFO - Received a message
+2023-10-30 14:26:39,063 - root - INFO - Overbought RSI: 96.28707921371009
+2023-10-30 14:26:39,063 - root - INFO - MACD crossover: 2.842915658664424 (MACD) > 2.6447475770874633 (Signal)
+2023-10-30 14:26:39,063 - root - INFO - Stochastic Overbought: %K = 98.71794871787695
+2023-10-30 14:26:39,063 - root - INFO - Stochastic Crossover: %K = 98.71794871787695 > %D = 98.71794871787694
+2023-10-30 14:26:39,064 - root - INFO - Received a message
+2023-10-30 14:26:39,067 - root - INFO - Overbought RSI: 96.28707921371009
+2023-10-30 14:26:39,067 - root - INFO - MACD crossover: 2.800024798591039 (MACD) > 2.6758030213881785 (Signal)
+2023-10-30 14:26:39,067 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:39,067 - root - INFO - Stochastic Crossover: %K = 100.0 > %D = 99.14529914525129
+2023-10-30 14:26:39,067 - root - INFO - Received a message
+2023-10-30 14:26:39,071 - root - INFO - Overbought RSI: 96.28707921371009
+2023-10-30 14:26:39,071 - root - INFO - MACD crossover: 2.734511733877298 (MACD) > 2.6875447638860024 (Signal)
+2023-10-30 14:26:39,071 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:39,071 - root - INFO - Stochastic Crossover: %K = 100.0 > %D = 99.57264957262565
+2023-10-30 14:26:39,072 - root - INFO - Received a message
+2023-10-30 14:26:39,075 - root - INFO - Overbought RSI: 96.28707921371009
+2023-10-30 14:26:39,076 - root - INFO - MACD crossunder: 2.652021307287214 (MACD) < 2.6804400725662445 (Signal)
+2023-10-30 14:26:39,076 - root - INFO - Stochastic Crossunder: %K = 66.66666666666667 < %D = 88.8888888888889
+2023-10-30 14:26:39,076 - root - INFO - Received a message
+2023-10-30 14:26:39,080 - root - INFO - Overbought RSI: 96.28707921371009
+2023-10-30 14:26:39,080 - root - INFO - MACD crossunder: 2.5571695906473906 (MACD) < 2.655785976182474 (Signal)
+2023-10-30 14:26:39,080 - root - INFO - Stochastic Crossunder: %K = 33.33333333333333 < %D = 66.66666666666667
+2023-10-30 14:26:39,863 - root - INFO - Received a message
+2023-10-30 14:26:39,867 - root - INFO - Overbought RSI: 96.28707921371009
+2023-10-30 14:26:39,868 - root - INFO - MACD crossunder: 2.4537140338361496 (MACD) < 2.615371587713209 (Signal)
+2023-10-30 14:26:39,868 - root - INFO - Stochastic Oversold: %K = -9.473903143468002e-15
+2023-10-30 14:26:39,868 - root - INFO - Stochastic Crossunder: %K = -9.473903143468002e-15 < %D = 33.33333333333333
+2023-10-30 14:26:39,871 - root - INFO - Received a message
+2023-10-30 14:26:39,875 - root - INFO - Overbought RSI: 97.33642608961466
+2023-10-30 14:26:39,875 - root - INFO - MACD crossunder: 2.4643546769802924 (MACD) < 2.5851682055666254 (Signal)
+2023-10-30 14:26:39,875 - root - INFO - Stochastic Crossover: %K = 33.33333333333332 > %D = 22.22222222222221
+2023-10-30 14:26:39,875 - root - INFO - Received a message
+2023-10-30 14:26:39,878 - root - INFO - Overbought RSI: 97.62550672979037
+2023-10-30 14:26:39,879 - root - INFO - MACD crossunder: 2.4924707970858435 (MACD) < 2.566628723870469 (Signal)
+2023-10-30 14:26:39,879 - root - INFO - Stochastic Crossover: %K = 66.66666666666666 > %D = 33.33333333333332
+2023-10-30 14:26:39,879 - root - INFO - Received a message
+2023-10-30 14:26:39,882 - root - INFO - Overbought RSI: 97.62550672979037
+2023-10-30 14:26:39,882 - root - INFO - MACD crossunder: 2.486094870699162 (MACD) < 2.5505219532362076 (Signal)
+2023-10-30 14:26:39,882 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:39,882 - root - INFO - Stochastic Crossover: %K = 100.0 > %D = 66.66666666666666
+2023-10-30 14:26:39,882 - root - INFO - Received a message
+2023-10-30 14:26:39,885 - root - INFO - Overbought RSI: 90.06760922452605
+2023-10-30 14:26:39,885 - root - INFO - MACD crossunder: 2.420859089397709 (MACD) < 2.524589380468508 (Signal)
+2023-10-30 14:26:39,886 - root - INFO - Stochastic Overbought: %K = 93.65079365076616
+2023-10-30 14:26:39,886 - root - INFO - Stochastic Crossover: %K = 93.65079365076616 > %D = 86.77248677247762
+2023-10-30 14:26:40,171 - root - INFO - Received a message
+2023-10-30 14:26:40,175 - root - INFO - Overbought RSI: 90.83197002219904
+2023-10-30 14:26:40,175 - root - INFO - MACD crossunder: 2.374069128665724 (MACD) < 2.4944853301079513 (Signal)
+2023-10-30 14:26:40,175 - root - INFO - Stochastic Overbought: %K = 93.65079365076616
+2023-10-30 14:26:40,175 - root - INFO - Stochastic Crossunder: %K = 93.65079365076616 < %D = 95.76719576717744
+2023-10-30 14:26:40,559 - root - INFO - Received a message
+2023-10-30 14:26:40,563 - root - INFO - Overbought RSI: 91.36848003696933
+2023-10-30 14:26:40,563 - root - INFO - MACD crossunder: 2.3342870326086995 (MACD) < 2.462445670608101 (Signal)
+2023-10-30 14:26:40,563 - root - INFO - Stochastic Overbought: %K = 93.65079365076616
+2023-10-30 14:26:40,563 - root - INFO - Received a message
+2023-10-30 14:26:40,566 - root - INFO - Overbought RSI: 91.54607218987418
+2023-10-30 14:26:40,567 - root - INFO - MACD crossunder: 2.2844943700838485 (MACD) < 2.4268554105032503 (Signal)
+2023-10-30 14:26:40,567 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:40,567 - root - INFO - Stochastic Crossover: %K = 100.0 > %D = 95.76719576717744
+2023-10-30 14:26:40,827 - root - INFO - Received a message
+2023-10-30 14:26:40,830 - root - INFO - Overbought RSI: 91.5460721898742
+2023-10-30 14:26:40,830 - root - INFO - MACD crossunder: 2.219448900927091 (MACD) < 2.3853741085880182 (Signal)
+2023-10-30 14:26:40,830 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:40,830 - root - INFO - Stochastic Crossover: %K = 100.0 > %D = 97.88359788358872
+2023-10-30 14:26:40,997 - root - INFO - Received a message
+2023-10-30 14:26:41,001 - root - INFO - Overbought RSI: 91.54607218987418
+2023-10-30 14:26:41,001 - root - INFO - MACD crossunder: 2.14319448605238 (MACD) < 2.3369381840808905 (Signal)
+2023-10-30 14:26:41,001 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:41,906 - root - INFO - Received a message
+2023-10-30 14:26:41,909 - root - INFO - Overbought RSI: 91.5460721898742
+2023-10-30 14:26:41,909 - root - INFO - MACD crossunder: 2.059027129827882 (MACD) < 2.281355973230289 (Signal)
+2023-10-30 14:26:41,909 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:43,455 - root - INFO - Received a message
+2023-10-30 14:26:43,458 - root - INFO - Overbought RSI: 91.54607218987418
+2023-10-30 14:26:43,458 - root - INFO - MACD crossunder: 1.969619347823027 (MACD) < 2.2190086481488365 (Signal)
+2023-10-30 14:26:43,458 - root - INFO - Stochastic Crossunder: %K = 66.66666666666667 < %D = 88.8888888888889
+2023-10-30 14:26:43,570 - root - INFO - Received a message
+2023-10-30 14:26:43,574 - root - INFO - Overbought RSI: 91.54607218987418
+2023-10-30 14:26:43,574 - root - INFO - MACD crossunder: 1.8771247112381388 (MACD) < 2.1506318607666968 (Signal)
+2023-10-30 14:26:43,574 - root - INFO - Stochastic Crossunder: %K = 33.333333333333336 < %D = 66.66666666666667
+2023-10-30 14:26:43,995 - root - INFO - Received a message
+2023-10-30 14:26:43,999 - root - INFO - Overbought RSI: 91.5460721898742
+2023-10-30 14:26:43,999 - root - INFO - MACD crossunder: 1.7832656687751296 (MACD) < 2.0771586223683833 (Signal)
+2023-10-30 14:26:43,999 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:43,999 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 33.33333333333334
+2023-10-30 14:26:44,013 - root - INFO - Received a message
+2023-10-30 14:26:44,015 - root - INFO - Overbought RSI: 91.5460721898742
+2023-10-30 14:26:44,016 - root - INFO - MACD crossunder: 1.6894072660579695 (MACD) < 1.9996083511063005 (Signal)
+2023-10-30 14:26:44,016 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,016 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 11.111111111111116
+2023-10-30 14:26:44,056 - root - INFO - Received a message
+2023-10-30 14:26:44,060 - root - INFO - Overbought RSI: 91.54607218987418
+2023-10-30 14:26:44,060 - root - INFO - MACD crossunder: 1.5966189760001726 (MACD) < 1.919010476085075 (Signal)
+2023-10-30 14:26:44,060 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,060 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 3.1579677144893344e-15
+2023-10-30 14:26:44,074 - root - INFO - Received a message
+2023-10-30 14:26:44,077 - root - INFO - Overbought RSI: 91.87189966216935
+2023-10-30 14:26:44,077 - root - INFO - MACD crossunder: 1.5137037176828017 (MACD) < 1.8379491244046204 (Signal)
+2023-10-30 14:26:44,077 - root - INFO - Stochastic Crossover: %K = 33.33333333333333 > %D = 11.111111111111114
+2023-10-30 14:26:44,363 - root - INFO - Received a message
+2023-10-30 14:26:44,366 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,366 - root - INFO - MACD crossunder: 1.4235142279139836 (MACD) < 1.7550621451064932 (Signal)
+2023-10-30 14:26:44,367 - root - INFO - Stochastic Crossover: %K = 33.33333333333333 > %D = 22.22222222222223
+2023-10-30 14:26:44,375 - root - INFO - Received a message
+2023-10-30 14:26:44,378 - root - INFO - Overbought RSI: 88.21060527570259
+2023-10-30 14:26:44,378 - root - INFO - MACD crossunder: 1.3366305623931112 (MACD) < 1.6713758285638167 (Signal)
+2023-10-30 14:26:44,378 - root - INFO - Stochastic Crossunder: %K = 33.33333333333333 < %D = 33.333333333333336
+2023-10-30 14:26:44,378 - root - INFO - Received a message
+2023-10-30 14:26:44,381 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,381 - root - INFO - MACD crossunder: 1.253327057354909 (MACD) < 1.5877660743220352 (Signal)
+2023-10-30 14:26:44,381 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,382 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 22.22222222222223
+2023-10-30 14:26:44,382 - root - INFO - Received a message
+2023-10-30 14:26:44,384 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,385 - root - INFO - MACD crossunder: 1.1737778490496567 (MACD) < 1.5049684292675596 (Signal)
+2023-10-30 14:26:44,385 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,385 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 11.111111111111116
+2023-10-30 14:26:44,385 - root - INFO - Received a message
+2023-10-30 14:26:44,388 - root - INFO - Overbought RSI: 88.21060527570259
+2023-10-30 14:26:44,388 - root - INFO - MACD crossunder: 1.0980765850035823 (MACD) < 1.4235900604147642 (Signal)
+2023-10-30 14:26:44,388 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,388 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,389 - root - INFO - Received a message
+2023-10-30 14:26:44,391 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,391 - root - INFO - MACD crossunder: 1.026252784569806 (MACD) < 1.3441226052457727 (Signal)
+2023-10-30 14:26:44,392 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,392 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,392 - root - INFO - Received a message
+2023-10-30 14:26:44,395 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,395 - root - INFO - MACD crossunder: 0.9582853878237074 (MACD) < 1.2669551617613597 (Signal)
+2023-10-30 14:26:44,395 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,395 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,395 - root - INFO - Received a message
+2023-10-30 14:26:44,398 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,398 - root - INFO - MACD crossunder: 0.8941139472080977 (MACD) < 1.1923869188507072 (Signal)
+2023-10-30 14:26:44,399 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,399 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,399 - root - INFO - Received a message
+2023-10-30 14:26:44,402 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,402 - root - INFO - MACD crossunder: 0.8336478447672562 (MACD) < 1.1206391040340171 (Signal)
+2023-10-30 14:26:44,402 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,402 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,402 - root - INFO - Received a message
+2023-10-30 14:26:44,405 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,405 - root - INFO - MACD crossunder: 0.7767738574402756 (MACD) < 1.0518660547152687 (Signal)
+2023-10-30 14:26:44,405 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,406 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,406 - root - INFO - Received a message
+2023-10-30 14:26:44,409 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,409 - root - INFO - MACD crossunder: 0.7233623419233481 (MACD) < 0.9861653121568846 (Signal)
+2023-10-30 14:26:44,409 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,409 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,409 - root - INFO - Received a message
+2023-10-30 14:26:44,412 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,412 - root - INFO - MACD crossunder: 0.6732722674641991 (MACD) < 0.9235867032183476 (Signal)
+2023-10-30 14:26:44,412 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,412 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,413 - root - INFO - Received a message
+2023-10-30 14:26:44,415 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,416 - root - INFO - MACD crossunder: 0.6263552887030528 (MACD) < 0.8641404203152886 (Signal)
+2023-10-30 14:26:44,416 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,416 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,416 - root - INFO - Received a message
+2023-10-30 14:26:44,419 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,419 - root - INFO - MACD crossunder: 0.582459020006354 (MACD) < 0.8078041402535017 (Signal)
+2023-10-30 14:26:44,419 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,419 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,419 - root - INFO - Received a message
+2023-10-30 14:26:44,422 - root - INFO - Overbought RSI: 88.21060527570259
+2023-10-30 14:26:44,422 - root - INFO - MACD crossunder: 0.5414296468661632 (MACD) < 0.754529241576034 (Signal)
+2023-10-30 14:26:44,423 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,423 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,423 - root - INFO - Received a message
+2023-10-30 14:26:44,426 - root - INFO - Overbought RSI: 88.21060527570259
+2023-10-30 14:26:44,426 - root - INFO - MACD crossunder: 0.5031139881757554 (MACD) < 0.7042461908959783 (Signal)
+2023-10-30 14:26:44,426 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,426 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,426 - root - INFO - Received a message
+2023-10-30 14:26:44,429 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,429 - root - INFO - MACD crossunder: 0.46736110471829306 (MACD) < 0.6568691736604413 (Signal)
+2023-10-30 14:26:44,430 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,430 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,430 - root - INFO - Received a message
+2023-10-30 14:26:44,433 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,433 - root - INFO - MACD crossunder: 0.43402353386045434 (MACD) < 0.6123000457004439 (Signal)
+2023-10-30 14:26:44,433 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,433 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,433 - root - INFO - Received a message
+2023-10-30 14:26:44,436 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,436 - root - INFO - MACD crossunder: 0.40295821728068404 (MACD) < 0.5704316800164919 (Signal)
+2023-10-30 14:26:44,436 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,437 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,437 - root - INFO - Received a message
+2023-10-30 14:26:44,439 - root - INFO - Overbought RSI: 88.21060527570259
+2023-10-30 14:26:44,440 - root - INFO - MACD crossunder: 0.3740271775968722 (MACD) < 0.531150779532568 (Signal)
+2023-10-30 14:26:44,440 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,440 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,440 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,440 - root - INFO - Received a message
+2023-10-30 14:26:44,443 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,443 - root - INFO - MACD crossunder: 0.3470979906342109 (MACD) < 0.49434022175289655 (Signal)
+2023-10-30 14:26:44,443 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,443 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,444 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,444 - root - INFO - Received a message
+2023-10-30 14:26:44,446 - root - INFO - Overbought RSI: 88.21060527570259
+2023-10-30 14:26:44,447 - root - INFO - MACD crossunder: 0.3220440921213594 (MACD) < 0.45988099582658915 (Signal)
+2023-10-30 14:26:44,447 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,447 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,447 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,447 - root - INFO - Received a message
+2023-10-30 14:26:44,450 - root - INFO - Overbought RSI: 88.21060527570259
+2023-10-30 14:26:44,450 - root - INFO - MACD crossunder: 0.29874495121475775 (MACD) < 0.42765378690422284 (Signal)
+2023-10-30 14:26:44,450 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,450 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,450 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,451 - root - INFO - Received a message
+2023-10-30 14:26:44,453 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,454 - root - INFO - MACD crossunder: 0.2770861376702669 (MACD) < 0.3975402570574317 (Signal)
+2023-10-30 14:26:44,454 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,454 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,454 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,454 - root - INFO - Received a message
+2023-10-30 14:26:44,457 - root - INFO - Overbought RSI: 88.21060527570259
+2023-10-30 14:26:44,457 - root - INFO - MACD crossunder: 0.2569593049774994 (MACD) < 0.3694240666414452 (Signal)
+2023-10-30 14:26:44,457 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,457 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,458 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,458 - root - INFO - Received a message
+2023-10-30 14:26:44,460 - root - INFO - Overbought RSI: 88.21060527570259
+2023-10-30 14:26:44,461 - root - INFO - MACD crossunder: 0.23826210779952817 (MACD) < 0.3431916748730618 (Signal)
+2023-10-30 14:26:44,461 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,461 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,461 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,461 - root - INFO - Received a message
+2023-10-30 14:26:44,464 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,464 - root - INFO - MACD crossunder: 0.2208980688956217 (MACD) < 0.31873295367757376 (Signal)
+2023-10-30 14:26:44,464 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,464 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,464 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,465 - root - INFO - Received a message
+2023-10-30 14:26:44,467 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,468 - root - INFO - MACD crossunder: 0.204776407997997 (MACD) < 0.2959416445416584 (Signal)
+2023-10-30 14:26:44,468 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,468 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,468 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,468 - root - INFO - Received a message
+2023-10-30 14:26:44,471 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,471 - root - INFO - MACD crossunder: 0.1898118428143789 (MACD) < 0.2747156841962025 (Signal)
+2023-10-30 14:26:44,471 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,471 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,471 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,472 - root - INFO - Received a message
+2023-10-30 14:26:44,474 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,475 - root - INFO - MACD crossunder: 0.17592437046550913 (MACD) < 0.25495742145006384 (Signal)
+2023-10-30 14:26:44,475 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,475 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,475 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,475 - root - INFO - Received a message
+2023-10-30 14:26:44,478 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,478 - root - INFO - MACD crossunder: 0.16303903605148662 (MACD) < 0.2365737443703484 (Signal)
+2023-10-30 14:26:44,478 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,478 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,479 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,479 - root - INFO - Received a message
+2023-10-30 14:26:44,482 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,482 - root - INFO - MACD crossunder: 0.15108569386211457 (MACD) < 0.21947613426870163 (Signal)
+2023-10-30 14:26:44,482 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,482 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,482 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,482 - root - INFO - Received a message
+2023-10-30 14:26:44,485 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,485 - root - INFO - MACD crossunder: 0.13999876543675782 (MACD) < 0.20358066050231288 (Signal)
+2023-10-30 14:26:44,485 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,486 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,486 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,486 - root - INFO - Received a message
+2023-10-30 14:26:44,489 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,489 - root - INFO - MACD crossunder: 0.12971699797344627 (MACD) < 0.18880792799653956 (Signal)
+2023-10-30 14:26:44,489 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,489 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,489 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,489 - root - INFO - Received a message
+2023-10-30 14:26:44,492 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,492 - root - INFO - MACD crossunder: 0.12018322577205254 (MACD) < 0.17508298755164214 (Signal)
+2023-10-30 14:26:44,492 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,492 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,493 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,493 - root - INFO - Received a message
+2023-10-30 14:26:44,495 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,496 - root - INFO - MACD crossunder: 0.11134413671243237 (MACD) < 0.1623352173838002 (Signal)
+2023-10-30 14:26:44,496 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,496 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,496 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,496 - root - INFO - Received a message
+2023-10-30 14:26:44,499 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,499 - root - INFO - MACD crossunder: 0.10315004544099793 (MACD) < 0.15049818299523973 (Signal)
+2023-10-30 14:26:44,499 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,499 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,500 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,500 - root - INFO - Received a message
+2023-10-30 14:26:44,502 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,503 - root - INFO - MACD crossunder: 0.09555467426253017 (MACD) < 0.13950948124869783 (Signal)
+2023-10-30 14:26:44,503 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,503 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,503 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,503 - root - INFO - Received a message
+2023-10-30 14:26:44,506 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,506 - root - INFO - MACD crossunder: 0.08851494271948468 (MACD) < 0.1293105735428552 (Signal)
+2023-10-30 14:26:44,506 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,507 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,507 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,507 - root - INFO - Received a message
+2023-10-30 14:26:44,510 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,510 - root - INFO - MACD crossunder: 0.08199076624441659 (MACD) < 0.11984661208316746 (Signal)
+2023-10-30 14:26:44,510 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,510 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,510 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,510 - root - INFO - Received a message
+2023-10-30 14:26:44,513 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,513 - root - INFO - MACD crossunder: 0.07594486426387448 (MACD) < 0.11106626251930887 (Signal)
+2023-10-30 14:26:44,514 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,514 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,514 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,514 - root - INFO - Received a message
+2023-10-30 14:26:44,517 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,517 - root - INFO - MACD crossunder: 0.07034257792838616 (MACD) < 0.10292152560112433 (Signal)
+2023-10-30 14:26:44,517 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,517 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,517 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,517 - root - INFO - Received a message
+2023-10-30 14:26:44,520 - root - INFO - Overbought RSI: 88.21060527570256
+2023-10-30 14:26:44,520 - root - INFO - MACD crossunder: 0.06515169743215665 (MACD) < 0.09536755996733079 (Signal)
+2023-10-30 14:26:44,521 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,521 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,521 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,521 - root - INFO - Received a message
+2023-10-30 14:26:44,524 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,524 - root - INFO - MACD crossunder: 0.06034229878423503 (MACD) < 0.08836250773071164 (Signal)
+2023-10-30 14:26:44,524 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,524 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,524 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,524 - root - INFO - Received a message
+2023-10-30 14:26:44,527 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,527 - root - INFO - MACD crossunder: 0.05588658988563111 (MACD) < 0.08186732416169554 (Signal)
+2023-10-30 14:26:44,527 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,528 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,528 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,528 - root - INFO - Received a message
+2023-10-30 14:26:44,531 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,531 - root - INFO - MACD crossunder: 0.05175876565044746 (MACD) < 0.07584561245944592 (Signal)
+2023-10-30 14:26:44,531 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,531 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,531 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,532 - root - INFO - Received a message
+2023-10-30 14:26:44,534 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,535 - root - INFO - MACD crossunder: 0.04793487184360856 (MACD) < 0.07026346433627845 (Signal)
+2023-10-30 14:26:44,535 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,535 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,535 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,535 - root - INFO - Received a message
+2023-10-30 14:26:44,538 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,538 - root - INFO - MACD crossunder: 0.04439267730049323 (MACD) < 0.0650893069291214 (Signal)
+2023-10-30 14:26:44,538 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,539 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,539 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,539 - root - INFO - Received a message
+2023-10-30 14:26:44,542 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,542 - root - INFO - MACD crossunder: 0.04111155420105206 (MACD) < 0.060293756383507535 (Signal)
+2023-10-30 14:26:44,542 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,542 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,542 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,542 - root - INFO - Received a message
+2023-10-30 14:26:44,545 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,545 - root - INFO - MACD crossunder: 0.03807236596185248 (MACD) < 0.055849478299176525 (Signal)
+2023-10-30 14:26:44,545 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,546 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,546 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,546 - root - INFO - Received a message
+2023-10-30 14:26:44,549 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,549 - root - INFO - MACD crossunder: 0.035257362462289166 (MACD) < 0.051731055131799056 (Signal)
+2023-10-30 14:26:44,549 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,549 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,549 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,549 - root - INFO - Received a message
+2023-10-30 14:26:44,552 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,552 - root - INFO - MACD crossunder: 0.032650082088366617 (MACD) < 0.04791486052311257 (Signal)
+2023-10-30 14:26:44,552 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,553 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,553 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,553 - root - INFO - Received a message
+2023-10-30 14:26:44,556 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,556 - root - INFO - MACD crossunder: 0.030235260346671566 (MACD) < 0.04437894048782437 (Signal)
+2023-10-30 14:26:44,556 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,556 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,556 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,556 - root - INFO - Received a message
+2023-10-30 14:26:44,559 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,559 - root - INFO - MACD crossunder: 0.027998744619253557 (MACD) < 0.04110290131411021 (Signal)
+2023-10-30 14:26:44,559 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,560 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,560 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,560 - root - INFO - Received a message
+2023-10-30 14:26:44,563 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,563 - root - INFO - MACD crossunder: 0.02592741469561588 (MACD) < 0.03806780399041134 (Signal)
+2023-10-30 14:26:44,563 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,563 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,563 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,563 - root - INFO - Received a message
+2023-10-30 14:26:44,566 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,566 - root - INFO - MACD crossunder: 0.02400910874712281 (MACD) < 0.03525606494175364 (Signal)
+2023-10-30 14:26:44,566 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,567 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,567 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,567 - root - INFO - Received a message
+2023-10-30 14:26:44,570 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,570 - root - INFO - MACD crossunder: 0.02223255440912908 (MACD) < 0.03265136283522872 (Signal)
+2023-10-30 14:26:44,570 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,570 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,570 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,570 - root - INFO - Received a message
+2023-10-30 14:26:44,573 - root - INFO - Overbought RSI: 88.21060527570256
+2023-10-30 14:26:44,573 - root - INFO - MACD crossunder: 0.02058730466524139 (MACD) < 0.030238551201231256 (Signal)
+2023-10-30 14:26:44,574 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,574 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,574 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,574 - root - INFO - Received a message
+2023-10-30 14:26:44,577 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,577 - root - INFO - MACD crossunder: 0.019063678177190013 (MACD) < 0.028003576596423007 (Signal)
+2023-10-30 14:26:44,577 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,577 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,577 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,577 - root - INFO - Received a message
+2023-10-30 14:26:44,580 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,580 - root - INFO - MACD crossunder: 0.017652703827479854 (MACD) < 0.025933402042634376 (Signal)
+2023-10-30 14:26:44,580 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,581 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,581 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,581 - root - INFO - Received a message
+2023-10-30 14:26:44,584 - root - INFO - Overbought RSI: 88.21060527570259
+2023-10-30 14:26:44,584 - root - INFO - MACD crossunder: 0.016346069176506717 (MACD) < 0.024015935469408844 (Signal)
+2023-10-30 14:26:44,584 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,584 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,584 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,584 - root - INFO - Received a message
+2023-10-30 14:26:44,587 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,587 - root - INFO - MACD crossunder: 0.015136072579480242 (MACD) < 0.022239962891423125 (Signal)
+2023-10-30 14:26:44,587 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,588 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,588 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,588 - root - INFO - Received a message
+2023-10-30 14:26:44,591 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,591 - root - INFO - MACD crossunder: 0.014015578693943098 (MACD) < 0.02059508605192712 (Signal)
+2023-10-30 14:26:44,591 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,591 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,591 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,591 - root - INFO - Received a message
+2023-10-30 14:26:44,594 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,594 - root - INFO - MACD crossunder: 0.012977977174159605 (MACD) < 0.019071664276373617 (Signal)
+2023-10-30 14:26:44,594 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,595 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,595 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,595 - root - INFO - Received a message
+2023-10-30 14:26:44,598 - root - INFO - Overbought RSI: 88.21060527570259
+2023-10-30 14:26:44,598 - root - INFO - MACD crossunder: 0.012017144334095065 (MACD) < 0.017660760287917906 (Signal)
+2023-10-30 14:26:44,598 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,598 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,598 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,598 - root - INFO - Received a message
+2023-10-30 14:26:44,601 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,601 - root - INFO - MACD crossunder: 0.01112740756070707 (MACD) < 0.01635408974247574 (Signal)
+2023-10-30 14:26:44,601 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,602 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,602 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,602 - root - INFO - Received a message
+2023-10-30 14:26:44,605 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,605 - root - INFO - MACD crossunder: 0.01030351227382198 (MACD) < 0.015143974248744987 (Signal)
+2023-10-30 14:26:44,605 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,605 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,605 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,605 - root - INFO - Received a message
+2023-10-30 14:26:44,608 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,608 - root - INFO - MACD crossunder: 0.00954059133073315 (MACD) < 0.01402329766514262 (Signal)
+2023-10-30 14:26:44,608 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,609 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,609 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,609 - root - INFO - Received a message
+2023-10-30 14:26:44,612 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,612 - root - INFO - MACD crossunder: 0.008834136555378791 (MACD) < 0.012985465443189854 (Signal)
+2023-10-30 14:26:44,612 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,612 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,612 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,612 - root - INFO - Received a message
+2023-10-30 14:26:44,615 - root - INFO - Overbought RSI: 88.21060527570259
+2023-10-30 14:26:44,615 - root - INFO - MACD crossunder: 0.008179972428479232 (MACD) < 0.01202436684024773 (Signal)
+2023-10-30 14:26:44,615 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,616 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,616 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,616 - root - INFO - Received a message
+2023-10-30 14:26:44,619 - root - INFO - Overbought RSI: 88.21060527570259
+2023-10-30 14:26:44,619 - root - INFO - MACD crossunder: 0.007574231618491467 (MACD) < 0.011134339795896477 (Signal)
+2023-10-30 14:26:44,619 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,619 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,619 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,619 - root - INFO - Received a message
+2023-10-30 14:26:44,622 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,622 - root - INFO - MACD crossunder: 0.0070133323315531015 (MACD) < 0.010310138303027802 (Signal)
+2023-10-30 14:26:44,622 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,623 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,623 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,623 - root - INFO - Received a message
+2023-10-30 14:26:44,626 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,626 - root - INFO - MACD crossunder: 0.006493957305792719 (MACD) < 0.009546902103580786 (Signal)
+2023-10-30 14:26:44,626 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,626 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,626 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,626 - root - INFO - Received a message
+2023-10-30 14:26:44,629 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,629 - root - INFO - MACD crossunder: 0.006013034340867307 (MACD) < 0.00884012855103809 (Signal)
+2023-10-30 14:26:44,629 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,630 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,630 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,630 - root - INFO - Received a message
+2023-10-30 14:26:44,633 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,633 - root - INFO - MACD crossunder: 0.0055677182317595 (MACD) < 0.008185646487182372 (Signal)
+2023-10-30 14:26:44,633 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,633 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,633 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,633 - root - INFO - Received a message
+2023-10-30 14:26:44,636 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,636 - root - INFO - MACD crossunder: 0.005155374063178897 (MACD) < 0.007579592002381677 (Signal)
+2023-10-30 14:26:44,636 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,637 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,637 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,637 - root - INFO - Received a message
+2023-10-30 14:26:44,640 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,640 - root - INFO - MACD crossunder: 0.00477356169722043 (MACD) < 0.0070183859413494275 (Signal)
+2023-10-30 14:26:44,640 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,640 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,640 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,640 - root - INFO - Received a message
+2023-10-30 14:26:44,643 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,643 - root - INFO - MACD crossunder: 0.004420021388796158 (MACD) < 0.006498713030838774 (Signal)
+2023-10-30 14:26:44,643 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,644 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,644 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,644 - root - INFO - Received a message
+2023-10-30 14:26:44,647 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,647 - root - INFO - MACD crossunder: 0.004092660507012624 (MACD) < 0.006017502526073544 (Signal)
+2023-10-30 14:26:44,647 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,647 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,647 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,647 - root - INFO - Received a message
+2023-10-30 14:26:44,650 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,650 - root - INFO - MACD crossunder: 0.0037895411805948243 (MACD) < 0.0055719102569778 (Signal)
+2023-10-30 14:26:44,651 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,651 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,651 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,651 - root - INFO - Received a message
+2023-10-30 14:26:44,654 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,654 - root - INFO - MACD crossunder: 0.0035088688746327534 (MACD) < 0.005159301980508791 (Signal)
+2023-10-30 14:26:44,654 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,654 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,654 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,655 - root - INFO - Received a message
+2023-10-30 14:26:44,657 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,657 - root - INFO - MACD crossunder: 0.003248981804063078 (MACD) < 0.004777237945219648 (Signal)
+2023-10-30 14:26:44,658 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,658 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,658 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,658 - root - INFO - Received a message
+2023-10-30 14:26:44,661 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,661 - root - INFO - MACD crossunder: 0.003008341147506144 (MACD) < 0.004423458585676948 (Signal)
+2023-10-30 14:26:44,661 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,661 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,661 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,661 - root - INFO - Received a message
+2023-10-30 14:26:44,664 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,664 - root - INFO - MACD crossunder: 0.002785521930491086 (MACD) < 0.0040958712546397755 (Signal)
+2023-10-30 14:26:44,665 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,665 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,665 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,665 - root - INFO - Received a message
+2023-10-30 14:26:44,668 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,668 - root - INFO - MACD crossunder: 0.002579204629000742 (MACD) < 0.0037925379295119686 (Signal)
+2023-10-30 14:26:44,668 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,668 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,668 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,668 - root - INFO - Received a message
+2023-10-30 14:26:44,671 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,671 - root - INFO - MACD crossunder: 0.002388167369645089 (MACD) < 0.0035116638175385928 (Signal)
+2023-10-30 14:26:44,672 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,672 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,672 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,672 - root - INFO - Received a message
+2023-10-30 14:26:44,675 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,675 - root - INFO - MACD crossunder: 0.002211278726463206 (MACD) < 0.0032515867993235152 (Signal)
+2023-10-30 14:26:44,675 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,675 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,675 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,676 - root - INFO - Received a message
+2023-10-30 14:26:44,678 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,679 - root - INFO - MACD crossunder: 0.002047491005214397 (MACD) < 0.0030107676405016917 (Signal)
+2023-10-30 14:26:44,679 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,679 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,679 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,679 - root - INFO - Received a message
+2023-10-30 14:26:44,682 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,682 - root - INFO - MACD crossunder: 0.0018958340515382588 (MACD) < 0.0027877809227090052 (Signal)
+2023-10-30 14:26:44,682 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,682 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,682 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,683 - root - INFO - Received a message
+2023-10-30 14:26:44,685 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,686 - root - INFO - MACD crossunder: 0.0017554095611558296 (MACD) < 0.00258130665039837 (Signal)
+2023-10-30 14:26:44,686 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,686 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,686 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,686 - root - INFO - Received a message
+2023-10-30 14:26:44,689 - root - INFO - Overbought RSI: 88.21060527570256
+2023-10-30 14:26:44,689 - root - INFO - MACD crossunder: 0.00162538570293691 (MACD) < 0.002390122460906078 (Signal)
+2023-10-30 14:26:44,689 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,689 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,689 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,690 - root - INFO - Received a message
+2023-10-30 14:26:44,692 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,692 - root - INFO - MACD crossunder: 0.0015049922512844205 (MACD) < 0.0022130964189817463 (Signal)
+2023-10-30 14:26:44,693 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,693 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,693 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,693 - root - INFO - Received a message
+2023-10-30 14:26:44,695 - root - INFO - Overbought RSI: 88.21060527570256
+2023-10-30 14:26:44,695 - root - INFO - MACD crossunder: 0.001393515987729188 (MACD) < 0.0020491803327312348 (Signal)
+2023-10-30 14:26:44,695 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,695 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,695 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,696 - root - INFO - Received a message
+2023-10-30 14:26:44,698 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,698 - root - INFO - MACD crossunder: 0.0012902965099783614 (MACD) < 0.00189740356818066 (Signal)
+2023-10-30 14:26:44,699 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,699 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,699 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,699 - root - INFO - Received a message
+2023-10-30 14:26:44,702 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,702 - root - INFO - MACD crossunder: 0.0011947223101742566 (MACD) < 0.0017568673165793793 (Signal)
+2023-10-30 14:26:44,702 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,702 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,702 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,703 - root - INFO - Received a message
+2023-10-30 14:26:44,705 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,705 - root - INFO - MACD crossunder: 0.0011062271732953377 (MACD) < 0.001626739287922571 (Signal)
+2023-10-30 14:26:44,706 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,706 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,706 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,706 - root - INFO - Received a message
+2023-10-30 14:26:44,709 - root - INFO - Overbought RSI: 88.21060527570256
+2023-10-30 14:26:44,709 - root - INFO - MACD crossunder: 0.0010242867938359268 (MACD) < 0.0015062487891052423 (Signal)
+2023-10-30 14:26:44,709 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,709 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,709 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,709 - root - INFO - Received a message
+2023-10-30 14:26:44,712 - root - INFO - Overbought RSI: 88.21060527570256
+2023-10-30 14:26:44,712 - root - INFO - MACD crossunder: 0.0009484157126280479 (MACD) < 0.0013946821738098033 (Signal)
+2023-10-30 14:26:44,713 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,713 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,713 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,713 - root - INFO - Received a message
+2023-10-30 14:26:44,716 - root - INFO - Overbought RSI: 88.21060527570259
+2023-10-30 14:26:44,716 - root - INFO - MACD crossunder: 0.000878164399182424 (MACD) < 0.0012913786188843274 (Signal)
+2023-10-30 14:26:44,716 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,716 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,716 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,716 - root - INFO - Received a message
+2023-10-30 14:26:44,719 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,719 - root - INFO - MACD crossunder: 0.0008131166250677779 (MACD) < 0.0011957262201210176 (Signal)
+2023-10-30 14:26:44,720 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,720 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,720 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,720 - root - INFO - Received a message
+2023-10-30 14:26:44,723 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,723 - root - INFO - MACD crossunder: 0.0007528869828092866 (MACD) < 0.0011071583726586713 (Signal)
+2023-10-30 14:26:44,723 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,723 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,723 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,723 - root - INFO - Received a message
+2023-10-30 14:26:44,726 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,726 - root - INFO - MACD crossunder: 0.000697118608513847 (MACD) < 0.0010251504198297064 (Signal)
+2023-10-30 14:26:44,727 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,727 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,727 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,727 - root - INFO - Received a message
+2023-10-30 14:26:44,730 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,730 - root - INFO - MACD crossunder: 0.0006454810645664111 (MACD) < 0.0009492165487770474 (Signal)
+2023-10-30 14:26:44,730 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,730 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,730 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,730 - root - INFO - Received a message
+2023-10-30 14:26:44,733 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,733 - root - INFO - MACD crossunder: 0.0005976683896733448 (MACD) < 0.0008789069169563068 (Signal)
+2023-10-30 14:26:44,734 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,734 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,734 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,734 - root - INFO - Received a message
+2023-10-30 14:26:44,737 - root - INFO - Overbought RSI: 88.21060527570256
+2023-10-30 14:26:44,737 - root - INFO - MACD crossunder: 0.0005533972871489823 (MACD) < 0.000813804990994842 (Signal)
+2023-10-30 14:26:44,737 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,737 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,737 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,737 - root - INFO - Received a message
+2023-10-30 14:26:44,740 - root - INFO - Overbought RSI: 88.21060527570256
+2023-10-30 14:26:44,740 - root - INFO - MACD crossunder: 0.0005124054223415442 (MACD) < 0.0007535250772641824 (Signal)
+2023-10-30 14:26:44,740 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,741 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,741 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,741 - root - INFO - Received a message
+2023-10-30 14:26:44,744 - root - INFO - Overbought RSI: 88.21060527570256
+2023-10-30 14:26:44,744 - root - INFO - MACD crossunder: 0.0004744499165099114 (MACD) < 0.0006977100451133282 (Signal)
+2023-10-30 14:26:44,744 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,744 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,744 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,744 - root - INFO - Received a message
+2023-10-30 14:26:44,747 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,747 - root - INFO - MACD crossunder: 0.00043930585525231436 (MACD) < 0.0006460292071411254 (Signal)
+2023-10-30 14:26:44,747 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,748 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,748 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,748 - root - INFO - Received a message
+2023-10-30 14:26:44,751 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,751 - root - INFO - MACD crossunder: 0.0004067650006618351 (MACD) < 0.0005981763658452673 (Signal)
+2023-10-30 14:26:44,751 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,751 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,751 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,751 - root - INFO - Received a message
+2023-10-30 14:26:44,754 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,754 - root - INFO - MACD crossunder: 0.0003766345325857401 (MACD) < 0.0005538679991933619 (Signal)
+2023-10-30 14:26:44,754 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,755 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,755 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,755 - root - INFO - Received a message
+2023-10-30 14:26:44,758 - root - INFO - Overbought RSI: 88.21060527570256
+2023-10-30 14:26:44,758 - root - INFO - MACD crossunder: 0.00034873590630013496 (MACD) < 0.0005128415806147166 (Signal)
+2023-10-30 14:26:44,758 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,758 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,758 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,758 - root - INFO - Received a message
+2023-10-30 14:26:44,761 - root - INFO - Overbought RSI: 88.21060527570256
+2023-10-30 14:26:44,761 - root - INFO - MACD crossunder: 0.0003229038047720678 (MACD) < 0.0004748540254461868 (Signal)
+2023-10-30 14:26:44,761 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,762 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,762 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,762 - root - INFO - Received a message
+2023-10-30 14:26:44,765 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,765 - root - INFO - MACD crossunder: 0.0002989851709571667 (MACD) < 0.00043968025454838277 (Signal)
+2023-10-30 14:26:44,765 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,765 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,765 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,765 - root - INFO - Received a message
+2023-10-30 14:26:44,768 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,768 - root - INFO - MACD crossunder: 0.0002768382619251497 (MACD) < 0.00040711185602373615 (Signal)
+2023-10-30 14:26:44,768 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,769 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,769 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,769 - root - INFO - Received a message
+2023-10-30 14:26:44,772 - root - INFO - Overbought RSI: 88.21060527570256
+2023-10-30 14:26:44,772 - root - INFO - MACD crossunder: 0.0002563318412285298 (MACD) < 0.0003769558530646949 (Signal)
+2023-10-30 14:26:44,772 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,772 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,772 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,772 - root - INFO - Received a message
+2023-10-30 14:26:44,775 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,775 - root - INFO - MACD crossunder: 0.00023734439309919253 (MACD) < 0.0003490335610715944 (Signal)
+2023-10-30 14:26:44,775 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,776 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,776 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,776 - root - INFO - Received a message
+2023-10-30 14:26:44,779 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,779 - root - INFO - MACD crossunder: 0.00021976340940454975 (MACD) < 0.0003231795307381855 (Signal)
+2023-10-30 14:26:44,779 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,779 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,779 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,779 - root - INFO - Received a message
+2023-10-30 14:26:44,782 - root - INFO - Overbought RSI: 88.21060527570256
+2023-10-30 14:26:44,782 - root - INFO - MACD crossunder: 0.00020348471298348159 (MACD) < 0.0002992405671872447 (Signal)
+2023-10-30 14:26:44,782 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,783 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,783 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,783 - root - INFO - Received a message
+2023-10-30 14:26:44,786 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,786 - root - INFO - MACD crossunder: 0.0001884118319139816 (MACD) < 0.0002770748201325921 (Signal)
+2023-10-30 14:26:44,786 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,786 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,786 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,786 - root - INFO - Received a message
+2023-10-30 14:26:44,789 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,789 - root - INFO - MACD crossunder: 0.00017445545381633565 (MACD) < 0.0002565509468693408 (Signal)
+2023-10-30 14:26:44,789 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,790 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,790 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,790 - root - INFO - Received a message
+2023-10-30 14:26:44,793 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,793 - root - INFO - MACD crossunder: 0.00016153286560438573 (MACD) < 0.00023754733061634976 (Signal)
+2023-10-30 14:26:44,793 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,793 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,793 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,793 - root - INFO - Received a message
+2023-10-30 14:26:44,796 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,796 - root - INFO - MACD crossunder: 0.0001495675096521154 (MACD) < 0.0002199513664235029 (Signal)
+2023-10-30 14:26:44,796 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,797 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,797 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,797 - root - INFO - Received a message
+2023-10-30 14:26:44,800 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,800 - root - INFO - MACD crossunder: 0.00013848846720065922 (MACD) < 0.00020365878657893416 (Signal)
+2023-10-30 14:26:44,800 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,800 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,800 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,800 - root - INFO - Received a message
+2023-10-30 14:26:44,803 - root - INFO - Overbought RSI: 88.21060527570259
+2023-10-30 14:26:44,803 - root - INFO - MACD crossunder: 0.0001282300872844644 (MACD) < 0.0001885730467200402 (Signal)
+2023-10-30 14:26:44,803 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,803 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,803 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,804 - root - INFO - Received a message
+2023-10-30 14:26:44,806 - root - INFO - Overbought RSI: 88.21060527570259
+2023-10-30 14:26:44,807 - root - INFO - MACD crossunder: 0.00011873158655362204 (MACD) < 0.00017460475468675658 (Signal)
+2023-10-30 14:26:44,807 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,807 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,807 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,807 - root - INFO - Received a message
+2023-10-30 14:26:44,810 - root - INFO - Overbought RSI: 88.21060527570259
+2023-10-30 14:26:44,810 - root - INFO - MACD crossunder: 0.00010993667092407122 (MACD) < 0.0001616711379342195 (Signal)
+2023-10-30 14:26:44,810 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,810 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,810 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,811 - root - INFO - Received a message
+2023-10-30 14:26:44,813 - root - INFO - Overbought RSI: 88.21060527570259
+2023-10-30 14:26:44,814 - root - INFO - MACD crossunder: 0.00010179322998737916 (MACD) < 0.00014969555634485144 (Signal)
+2023-10-30 14:26:44,814 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,814 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,814 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,814 - root - INFO - Received a message
+2023-10-30 14:26:44,817 - root - INFO - Overbought RSI: 88.21060527570259
+2023-10-30 14:26:44,817 - root - INFO - MACD crossunder: 9.42530095926486e-05 (MACD) < 0.00013860704699441087 (Signal)
+2023-10-30 14:26:44,817 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,817 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,817 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,817 - root - INFO - Received a message
+2023-10-30 14:26:44,820 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,820 - root - INFO - MACD crossunder: 8.727131353225559e-05 (MACD) < 0.00012833990030197982 (Signal)
+2023-10-30 14:26:44,821 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,821 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,821 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,821 - root - INFO - Received a message
+2023-10-30 14:26:44,824 - root - INFO - Overbought RSI: 88.21060527570259
+2023-10-30 14:26:44,824 - root - INFO - MACD crossunder: 8.080677798716351e-05 (MACD) < 0.00011883327583901656 (Signal)
+2023-10-30 14:26:44,824 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,824 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,824 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,824 - root - INFO - Received a message
+2023-10-30 14:26:44,827 - root - INFO - Overbought RSI: 88.21060527570259
+2023-10-30 14:26:44,827 - root - INFO - MACD crossunder: 7.482109504053369e-05 (MACD) < 0.00011003083967931999 (Signal)
+2023-10-30 14:26:44,827 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,828 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,828 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,828 - root - INFO - Received a message
+2023-10-30 14:26:44,831 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,831 - root - INFO - MACD crossunder: 6.927880167495459e-05 (MACD) < 0.00010188043207844691 (Signal)
+2023-10-30 14:26:44,831 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,831 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,831 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,831 - root - INFO - Received a message
+2023-10-30 14:26:44,834 - root - INFO - Overbought RSI: 88.21060527570258
+2023-10-30 14:26:44,834 - root - INFO - MACD crossunder: 6.414704694179818e-05 (MACD) < 9.433375505111716e-05 (Signal)
+2023-10-30 14:26:44,834 - root - INFO - Price below lower Bollinger Band: 34386.3 < 34386.30000000005
+2023-10-30 14:26:44,834 - root - INFO - Stochastic Oversold: %K = -4.736951571734001e-15
+2023-10-30 14:26:44,835 - root - INFO - Stochastic Crossunder: %K = -4.736951571734001e-15 < %D = 5.526443500356335e-15
+2023-10-30 14:26:44,964 - root - INFO - Received a message
+2023-10-30 14:26:44,968 - root - INFO - Overbought RSI: 99.99225250726684
+2023-10-30 14:26:44,968 - root - INFO - MACD crossover: 0.016013811371522024 (MACD) > 0.0032782292783452988 (Signal)
+2023-10-30 14:26:44,968 - root - INFO - Price above upper Bollinger Band: 34386.5 > 34386.397083971955
+2023-10-30 14:26:44,968 - root - INFO - Stochastic Crossover: %K = 33.33333333333333 > %D = 11.111111111111116
+2023-10-30 14:26:44,968 - root - INFO - Received a message
+2023-10-30 14:26:44,971 - root - INFO - Overbought RSI: 99.99225250726684
+2023-10-30 14:26:44,971 - root - INFO - MACD crossover: 0.028327493550023064 (MACD) > 0.008288082132680851 (Signal)
+2023-10-30 14:26:44,971 - root - INFO - Price above upper Bollinger Band: 34386.5 > 34386.43993443928
+2023-10-30 14:26:44,971 - root - INFO - Stochastic Crossover: %K = 66.66666666666667 > %D = 33.33333333333334
+2023-10-30 14:26:45,219 - root - INFO - Received a message
+2023-10-30 14:26:45,222 - root - INFO - Overbought RSI: 99.99225250726685
+2023-10-30 14:26:45,222 - root - INFO - MACD crossover: 0.03765214489976643 (MACD) > 0.014160894686097967 (Signal)
+2023-10-30 14:26:45,223 - root - INFO - Price above upper Bollinger Band: 34386.5 > 34386.472778647556
+2023-10-30 14:26:45,223 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:45,223 - root - INFO - Stochastic Crossover: %K = 100.0 > %D = 66.66666666666667
+2023-10-30 14:26:45,926 - root - INFO - Received a message
+2023-10-30 14:26:45,929 - root - INFO - Overbought RSI: 99.99225250726685
+2023-10-30 14:26:45,929 - root - INFO - MACD crossover: 0.044528699152579065 (MACD) > 0.020234455579394187 (Signal)
+2023-10-30 14:26:45,929 - root - INFO - Price above upper Bollinger Band: 34386.5 > 34386.499953663835
+2023-10-30 14:26:45,930 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:45,930 - root - INFO - Stochastic Crossover: %K = 100.0 > %D = 88.8888888888889
+2023-10-30 14:26:46,128 - root - INFO - Received a message
+2023-10-30 14:26:46,132 - root - INFO - MACD crossover: 0.04143165534333093 (MACD) > 0.024473895532181537 (Signal)
+2023-10-30 14:26:46,132 - root - INFO - Stochastic Crossunder: %K = 66.66666666666667 < %D = 88.8888888888889
+2023-10-30 14:26:46,133 - root - INFO - Received a message
+2023-10-30 14:26:46,136 - root - INFO - Overbought RSI: 71.94496447968704
+2023-10-30 14:26:46,136 - root - INFO - MACD crossover: 0.04651024888153188 (MACD) > 0.028881166202051604 (Signal)
+2023-10-30 14:26:46,136 - root - INFO - Stochastic Crossunder: %K = 66.66666666666667 < %D = 77.77777777777779
+2023-10-30 14:26:46,442 - root - INFO - Received a message
+2023-10-30 14:26:46,445 - root - INFO - Overbought RSI: 71.94496447968703
+2023-10-30 14:26:46,445 - root - INFO - MACD crossover: 0.0499591725965729 (MACD) > 0.033096767480955865 (Signal)
+2023-10-30 14:26:46,445 - root - INFO - Stochastic Crossunder: %K = 66.66666666666667 < %D = 66.66666666666669
+2023-10-30 14:26:46,763 - root - INFO - Received a message
+2023-10-30 14:26:46,767 - root - INFO - MACD crossover: 0.044114777534559835 (MACD) > 0.035300369491676656 (Signal)
+2023-10-30 14:26:46,767 - root - INFO - Stochastic Crossunder: %K = 66.66666666666667 < %D = 66.66666666666669
+2023-10-30 14:26:47,329 - root - INFO - Received a message
+2023-10-30 14:26:47,333 - root - INFO - MACD crossover: 0.047010310998302884 (MACD) > 0.0376423577930019 (Signal)
+2023-10-30 14:26:47,333 - root - INFO - Stochastic Crossunder: %K = 66.66666666666667 < %D = 66.66666666666669
+2023-10-30 14:26:47,373 - root - INFO - Received a message
+2023-10-30 14:26:47,376 - root - INFO - MACD crossover: 0.04076595333026489 (MACD) > 0.0382670769004545 (Signal)
+2023-10-30 14:26:47,376 - root - INFO - Stochastic Crossunder: %K = 33.333333333333336 < %D = 55.55555555555557
+2023-10-30 14:26:47,408 - root - INFO - Received a message
+2023-10-30 14:26:47,411 - root - INFO - MACD crossover: 0.04338628902769415 (MACD) > 0.03929091932590243 (Signal)
+2023-10-30 14:26:47,411 - root - INFO - Stochastic Crossover: %K = 66.66666666666667 > %D = 55.55555555555557
+2023-10-30 14:26:47,618 - root - INFO - Received a message
+2023-10-30 14:26:47,622 - root - INFO - MACD crossunder: 0.03696761996980058 (MACD) < 0.03882625945468206 (Signal)
+2023-10-30 14:26:47,622 - root - INFO - Stochastic Crossunder: %K = 33.333333333333336 < %D = 44.44444444444446
+2023-10-30 14:26:47,647 - root - INFO - Received a message
+2023-10-30 14:26:47,651 - root - INFO - MACD crossunder: 0.03151746478397399 (MACD) < 0.037364500520540446 (Signal)
+2023-10-30 14:26:47,651 - root - INFO - Stochastic Crossunder: %K = 33.333333333333336 < %D = 44.44444444444446
+2023-10-30 14:26:47,749 - root - INFO - Received a message
+2023-10-30 14:26:47,752 - root - INFO - MACD crossunder: 0.01891101881483337 (MACD) < 0.03367380417939903 (Signal)
+2023-10-30 14:26:47,752 - root - INFO - Stochastic Oversold: %K = 0.0
+2023-10-30 14:26:47,752 - root - INFO - Stochastic Crossunder: %K = 0.0 < %D = 22.222222222222232
+2023-10-30 14:26:47,753 - root - INFO - Received a message
+2023-10-30 14:26:47,756 - root - INFO - MACD crossunder: 0.008818663489364553 (MACD) < 0.028702776041392136 (Signal)
+2023-10-30 14:26:47,756 - root - INFO - Stochastic Oversold: %K = 0.0
+2023-10-30 14:26:47,756 - root - INFO - Stochastic Crossunder: %K = 0.0 < %D = 11.111111111111121
+2023-10-30 14:26:47,756 - root - INFO - Received a message
+2023-10-30 14:26:47,759 - root - INFO - Oversold RSI: 25.051362995186683
+2023-10-30 14:26:47,759 - root - INFO - MACD crossunder: -0.03109778200450819 (MACD) < 0.01674266443221207 (Signal)
+2023-10-30 14:26:47,760 - root - INFO - Price below lower Bollinger Band: 34385.9 < 34386.10734523108
+2023-10-30 14:26:47,760 - root - INFO - Stochastic Oversold: %K = 0.0
+2023-10-30 14:26:47,760 - root - INFO - Stochastic Crossunder: %K = 0.0 < %D = 9.473903143468002e-15
+2023-10-30 14:26:47,760 - root - INFO - Received a message
+2023-10-30 14:26:47,763 - root - INFO - Oversold RSI: 12.506562741275909
+2023-10-30 14:26:47,763 - root - INFO - MACD crossunder: -0.1338118315252359 (MACD) < -0.013368234759277526 (Signal)
+2023-10-30 14:26:47,763 - root - INFO - Price below lower Bollinger Band: 34385.0 < 34385.65487346851
+2023-10-30 14:26:47,763 - root - INFO - Stochastic Oversold: %K = 0.0
+2023-10-30 14:26:47,764 - root - INFO - Stochastic Crossunder: %K = 0.0 < %D = 9.473903143468002e-15
+2023-10-30 14:26:47,872 - root - INFO - Received a message
+2023-10-30 14:26:47,875 - root - INFO - Oversold RSI: 7.538050995164442
+2023-10-30 14:26:47,876 - root - INFO - MACD crossunder: -0.3005101685412228 (MACD) < -0.07079662151566658 (Signal)
+2023-10-30 14:26:47,876 - root - INFO - Price below lower Bollinger Band: 34383.9 < 34384.95260510111
+2023-10-30 14:26:47,876 - root - INFO - Stochastic Oversold: %K = 0.0
+2023-10-30 14:26:47,876 - root - INFO - Stochastic Crossunder: %K = 0.0 < %D = 9.473903143468002e-15
+2023-10-30 14:26:48,911 - root - INFO - Received a message
+2023-10-30 14:26:48,914 - root - INFO - Oversold RSI: 10.999614018461882
+2023-10-30 14:26:48,914 - root - INFO - MACD crossunder: -0.4197124534548493 (MACD) < -0.14057978790350312 (Signal)
+2023-10-30 14:26:48,915 - root - INFO - Price below lower Bollinger Band: 34384.0 < 34384.513664507474
+2023-10-30 14:26:48,915 - root - INFO - Stochastic Oversold: %K = 1.388888888867836
+2023-10-30 14:26:48,915 - root - INFO - Stochastic Crossover: %K = 1.388888888867836 > %D = 0.4629629629559548
+2023-10-30 14:26:49,074 - root - INFO - Received a message
+2023-10-30 14:26:49,077 - root - INFO - Oversold RSI: 10.573323755166234
+2023-10-30 14:26:49,077 - root - INFO - MACD crossunder: -0.5162987170988345 (MACD) < -0.2157235737425694 (Signal)
+2023-10-30 14:26:49,077 - root - INFO - Price below lower Bollinger Band: 34383.9 < 34384.1327618408
+2023-10-30 14:26:49,078 - root - INFO - Stochastic Oversold: %K = 1.388888888867836
+2023-10-30 14:26:49,078 - root - INFO - Stochastic Crossover: %K = 1.388888888867836 > %D = 0.9259259259119
+2023-10-30 14:26:49,189 - root - INFO - Received a message
+2023-10-30 14:26:49,192 - root - INFO - Oversold RSI: 14.156119043425317
+2023-10-30 14:26:49,192 - root - INFO - MACD crossunder: -0.5781107616348891 (MACD) < -0.2882010113210333 (Signal)
+2023-10-30 14:26:49,192 - root - INFO - Stochastic Oversold: %K = 4.419191919130778
+2023-10-30 14:26:49,193 - root - INFO - Stochastic Crossover: %K = 4.419191919130778 > %D = 2.398989898955493
+2023-10-30 14:26:49,685 - root - INFO - Received a message
+2023-10-30 14:26:49,689 - root - INFO - Oversold RSI: 13.570603084644507
+2023-10-30 14:26:49,689 - root - INFO - MACD crossunder: -0.6279280528033269 (MACD) < -0.35614641961749205 (Signal)
+2023-10-30 14:26:49,689 - root - INFO - Stochastic Oversold: %K = 3.0303030302629423
+2023-10-30 14:26:49,690 - root - INFO - Stochastic Crossover: %K = 3.0303030302629423 > %D = 2.946127946087195
+2023-10-30 14:26:50,703 - root - INFO - Received a message
+2023-10-30 14:26:50,707 - root - INFO - Oversold RSI: 8.594109495940199
+2023-10-30 14:26:50,707 - root - INFO - MACD crossunder: -0.7635065224894788 (MACD) < -0.4376184401918894 (Signal)
+2023-10-30 14:26:50,707 - root - INFO - Price below lower Bollinger Band: 34382.6 < 34383.01198286921
+2023-10-30 14:26:50,707 - root - INFO - Stochastic Oversold: %K = 3.0303030302629423
+2023-10-30 14:26:50,707 - root - INFO - Stochastic Crossunder: %K = 3.0303030302629423 < %D = 3.493265993218897
+2023-10-30 14:26:50,778 - root - INFO - Received a message
+2023-10-30 14:26:50,782 - root - INFO - Oversold RSI: 8.594109495940199
+2023-10-30 14:26:50,782 - root - INFO - MACD crossunder: -0.8610280412249267 (MACD) < -0.5223003603984968 (Signal)
+2023-10-30 14:26:50,782 - root - INFO - Stochastic Oversold: %K = 0.0
+2023-10-30 14:26:50,782 - root - INFO - Stochastic Crossunder: %K = 0.0 < %D = 2.0202020201753044
+2023-10-30 14:26:50,889 - root - INFO - Received a message
+2023-10-30 14:26:50,892 - root - INFO - Oversold RSI: 6.47560031479385
+2023-10-30 14:26:50,892 - root - INFO - MACD crossunder: -1.0073935839172918 (MACD) < -0.6193190051022558 (Signal)
+2023-10-30 14:26:50,892 - root - INFO - Price below lower Bollinger Band: 34381.6 < 34381.93001655463
+2023-10-30 14:26:50,892 - root - INFO - Stochastic Oversold: %K = 0.0
+2023-10-30 14:26:50,892 - root - INFO - Stochastic Crossunder: %K = 0.0 < %D = 1.0101010100876568
+2023-10-30 14:26:51,856 - root - INFO - Received a message
+2023-10-30 14:26:51,859 - root - INFO - Oversold RSI: 8.894179304740454
+2023-10-30 14:26:51,859 - root - INFO - MACD crossunder: -1.1026099654118298 (MACD) < -0.7159771971641706 (Signal)
+2023-10-30 14:26:51,860 - root - INFO - Stochastic Oversold: %K = 1.449275362295917
+2023-10-30 14:26:51,860 - root - INFO - Stochastic Crossover: %K = 1.449275362295917 > %D = 0.4830917874319818
+2023-10-30 14:26:52,111 - root - INFO - Received a message
+2023-10-30 14:26:52,115 - root - INFO - Oversold RSI: 8.894179304740453
+2023-10-30 14:26:52,115 - root - INFO - MACD crossunder: -1.1646443387726322 (MACD) < -0.8057106254858629 (Signal)
+2023-10-30 14:26:52,115 - root - INFO - Stochastic Oversold: %K = 4.782608695580744
+2023-10-30 14:26:52,115 - root - INFO - Stochastic Crossover: %K = 4.782608695580744 > %D = 2.0772946859588965
+2023-10-30 14:26:52,187 - root - INFO - Received a message
+2023-10-30 14:26:52,190 - root - INFO - Oversold RSI: 8.635193021448433
+2023-10-30 14:26:52,190 - root - INFO - MACD crossunder: -1.2079516758676618 (MACD) < -0.8861588355622227 (Signal)
+2023-10-30 14:26:52,190 - root - INFO - Stochastic Oversold: %K = 4.782608695580744
+2023-10-30 14:26:52,190 - root - INFO - Stochastic Crossover: %K = 4.782608695580744 > %D = 3.671497584485811
+2023-10-30 14:26:52,321 - root - INFO - Received a message
+2023-10-30 14:26:52,324 - root - INFO - Oversold RSI: 11.413145717702783
+2023-10-30 14:26:52,324 - root - INFO - MACD crossunder: -1.220138886688801 (MACD) < -0.9529548457875384 (Signal)
+2023-10-30 14:26:52,325 - root - INFO - Stochastic Crossover: %K = 36.66666666661816 > %D = 15.410628019259894
+2023-10-30 14:26:53,196 - root - INFO - Received a message
+2023-10-30 14:26:53,199 - root - INFO - Oversold RSI: 11.413145717702784
+2023-10-30 14:26:53,200 - root - INFO - MACD crossunder: -1.2157825545727974 (MACD) < -1.0055203875445902 (Signal)
+2023-10-30 14:26:53,200 - root - INFO - Stochastic Crossover: %K = 66.66666666666667 > %D = 36.03864734295521
+2023-10-30 14:26:53,925 - root - INFO - Received a message
+2023-10-30 14:26:53,929 - root - INFO - Oversold RSI: 11.413145717702784
+2023-10-30 14:26:53,929 - root - INFO - MACD crossunder: -1.1985144020072767 (MACD) < -1.0441191904371274 (Signal)
+2023-10-30 14:26:53,929 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:53,929 - root - INFO - Stochastic Crossover: %K = 100.0 > %D = 67.77777777776163
+2023-10-30 14:26:54,867 - root - INFO - Received a message
+2023-10-30 14:26:54,870 - root - INFO - Oversold RSI: 11.413145717702783
+2023-10-30 14:26:54,870 - root - INFO - MACD crossunder: -1.1713269388637855 (MACD) < -1.069560740122459 (Signal)
+2023-10-30 14:26:54,871 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:54,871 - root - INFO - Stochastic Crossover: %K = 100.0 > %D = 88.88888888888891
+2023-10-30 14:26:55,333 - root - INFO - Received a message
+2023-10-30 14:26:55,337 - root - INFO - Oversold RSI: 10.964728260520001
+2023-10-30 14:26:55,337 - root - INFO - MACD crossunder: -1.144654972711578 (MACD) < -1.0845795866402828 (Signal)
+2023-10-30 14:26:55,338 - root - INFO - Stochastic Crossunder: %K = 66.66666666666667 < %D = 88.88888888888891
+2023-10-30 14:26:55,352 - root - INFO - Received a message
+2023-10-30 14:26:55,356 - root - INFO - Oversold RSI: 14.579045368629712
+2023-10-30 14:26:55,356 - root - INFO - MACD crossunder: -1.1027364240435418 (MACD) < -1.0882109541209346 (Signal)
+2023-10-30 14:26:55,356 - root - INFO - Stochastic Crossunder: %K = 66.66666666666667 < %D = 77.77777777777781
+2023-10-30 14:26:55,410 - root - INFO - Received a message
+2023-10-30 14:26:55,413 - root - INFO - MACD crossover: -0.977555379657133 (MACD) > -1.0660798392281743 (Signal)
+2023-10-30 14:26:55,414 - root - INFO - Stochastic Crossunder: %K = 66.66666666666667 < %D = 66.6666666666667
+2023-10-30 14:26:55,819 - root - INFO - Received a message
+2023-10-30 14:26:55,822 - root - INFO - MACD crossover: -0.8523844146257034 (MACD) > -1.02334075430768 (Signal)
+2023-10-30 14:26:55,822 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:55,822 - root - INFO - Stochastic Crossover: %K = 100.0 > %D = 77.77777777777781
+2023-10-30 14:26:56,046 - root - INFO - Received a message
+2023-10-30 14:26:56,050 - root - INFO - Overbought RSI: 74.16082275147087
+2023-10-30 14:26:56,051 - root - INFO - MACD crossover: -0.46539993302576477 (MACD) > -0.9117525900512969 (Signal)
+2023-10-30 14:26:56,051 - root - INFO - Price above upper Bollinger Band: 34386.4 > 34385.21266772843
+2023-10-30 14:26:56,051 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:56,051 - root - INFO - Stochastic Crossover: %K = 100.0 > %D = 88.88888888888891
+2023-10-30 14:26:56,198 - root - INFO - Received a message
+2023-10-30 14:26:56,201 - root - INFO - Overbought RSI: 74.16082275147086
+2023-10-30 14:26:56,201 - root - INFO - MACD crossover: -0.15690326016920153 (MACD) > -0.7607827240748779 (Signal)
+2023-10-30 14:26:56,202 - root - INFO - Price above upper Bollinger Band: 34386.4 > 34385.77516920999
+2023-10-30 14:26:56,202 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:56,202 - root - INFO - Stochastic Crossunder: %K = 100.0 < %D = 100.00000000000001
+2023-10-30 14:26:56,399 - root - INFO - Received a message
+2023-10-30 14:26:56,402 - root - INFO - Overbought RSI: 74.16082275147086
+2023-10-30 14:26:56,402 - root - INFO - MACD crossover: 0.08658448363712523 (MACD) > -0.5913092825324773 (Signal)
+2023-10-30 14:26:56,402 - root - INFO - Price above upper Bollinger Band: 34386.4 > 34386.25118463392
+2023-10-30 14:26:56,402 - root - INFO - Stochastic Overbought: %K = 100.0
+2023-10-30 14:26:56,402 - root - INFO - Stochastic Crossunder: %K = 100.0 < %D = 100.00000000000001
+2023-10-30 14:26:56,727 - root - INFO - WebSocket Closed: None, None

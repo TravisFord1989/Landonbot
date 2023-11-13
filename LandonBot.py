@@ -1,7 +1,7 @@
+import tensorflow as tf
 from tensorflow.keras.layers import Dense, Reshape, LSTM
 from tensorflow.keras.utils import get_custom_objects
 from tensorflow.keras import mixed_precision
-import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras.losses import MeanSquaredError
 from tensorflow.keras import layers
@@ -89,14 +89,28 @@ class LandonBot:
         # Handle missing values
         df = df.ffill().bfill()
 
-        # Convert non-numeric columns to appropriate data types
-        df['timestamp'] = pd.to_datetime(df['timestamp'])
-        df['symbol'] = df['symbol'].astype('category')
+        if 'timestamp' in df.columns:
+            try:
+                df['timestamp'] = pd.to_datetime(df['timestamp'], errors='coerce')
+            except Exception as e:
+                logging.error(f"Error converting timestamp: {e}")
+        else:
+            logging.warning("'timestamp' column missing in data")
 
-        # Normalization
-        df[['volume', 'price', 'tick_direction', 'trade_id', 'is_buy_trade', 'High', 'Low', 'close', 'RSI', 'MACD', 'Bollinger Upper', 'Bollinger Lower', 'Stochastic Oscillator']] = self.scaler.transform(df[['volume', 'price', 'tick_direction', 'trade_id', 'is_buy_trade', 'High', 'Low', 'close', 'RSI', 'MACD', 'Bollinger Upper', 'Bollinger Lower', 'Stochastic Oscillator']])
-        logging.info(f"Processing data: {df}")
-        return df
+        if 'symbol' in df.columns:
+            df['symbol'] = df['symbol'].astype('category')
+        else:
+            logging.warning("'symbol' column missing in data")
+
+            # Normalization (make sure all columns exist before this step)
+            if set(['volume', 'price', 'tick_direction', 'trade_id', 'is_buy_trade', 'High', 'Low', 'close', 'RSI',
+                    'MACD', 'Bollinger Upper', 'Bollinger Lower', 'Stochastic Oscillator']).issubset(df.columns):
+                df[['volume', 'price', 'tick_direction', 'trade_id', 'is_buy_trade', 'High', 'Low', 'close', 'RSI',
+                    'MACD', 'Bollinger Upper', 'Bollinger Lower', 'Stochastic Oscillator']] = self.scaler.fit_transform(
+                    df[['volume', 'price', 'tick_direction', 'trade_id', 'is_buy_trade', 'High', 'Low', 'close', 'RSI',
+                        'MACD', 'Bollinger Upper', 'Bollinger Lower', 'Stochastic Oscillator']])
+            logging.info(f"Processing data: {df.head()}")
+            return df
 
     def create_sequences(self, data, seq_length):
         sequences = []
@@ -133,6 +147,7 @@ class LandonBot:
             is_data_queue_empty = self.data_queue.empty()
             try:
                 if not is_data_queue_empty:
+                    logging.debug("Attempting to retrieve data from queue")
                     new_data = self.get_new_data()
 
                     if new_data.empty:
@@ -147,31 +162,53 @@ class LandonBot:
 
             except ValueError as ve:
                 logging.error("ValueError occurred: %s", traceback.format_exc())
-                # Handle ValueError appropriately
+                # Skip the current loop iteration on a ValueError
+                continue  # Log the error and move to the next iteration
+
             except KeyError as ke:
                 logging.error("KeyError occurred: %s", traceback.format_exc())
-                # Handle KeyError appropriately
+                # If KeyError is due to missing columns, add them with default values
+                for col in self.expected_columns:
+                    if col not in self.data.columns:
+                        self.data[col] = pd.Series(dtype=self.expected_columns[col])
+                logging.info("Fixed missing columns in DataFrame")
+                continue  # Proceed to the next iteration after attempting to fix the DataFrame
+
             except Exception as e:
-                logging.error("Error occurred: %s", traceback.format_exc())
-                # Handle other exceptions appropriately
+                logging.error("General error occurred: %s", traceback.format_exc())
+                # For general errors, just log the error and continue
+                continue  # Continue to the next iteration
             time.sleep(1)
         tf.profiler.experimental.stop()
 
     def get_new_data(self):
-        new_data = pd.DataFrame(self.data_queue.get()).transpose()
-
-        if 'timestamp' not in new_data.columns:
-            if 'time' in new_data.columns:
-                new_data = new_data.rename(columns={"time": "timestamp"})
-            else:
-                logging.warning("Data does not contain 'timestamp' or 'time' column. Skipping...")
+        try:
+            queue_data = self.data_queue.get()
+            if not isinstance(queue_data, pd.DataFrame):
+                logging.error(f"Data from queue is not a DataFrame: {type(queue_data)}")
                 return pd.DataFrame()
 
-        return new_data
+            # Validate the shape and structure of the DataFrame
+            if queue_data.empty or queue_data.shape[1] != len(self.column_names):
+                logging.warning("Received empty or incorrectly formatted data")
+                return pd.DataFrame()
+
+            # Ensure the DataFrame has all the required columns
+            missing_columns = set(self.column_names) - set(queue_data.columns)
+            if missing_columns:
+                logging.warning(f"Data missing columns: {missing_columns}")
+                return pd.DataFrame()
+
+            return queue_data
+
+        except Exception as e:
+            logging.error(f"Error retrieving data from queue: {e}")
+            return pd.DataFrame()
 
     def process_data(self, new_data):
         self.data = self.data.append(new_data)
         self.data = self.data.drop_duplicates(subset='timestamp').sort_values(by='timestamp').reset_index(drop=True)
+        logging.debug(f"Data after processing: {self.data.head()}")
         logging.info("Data after processing: %s", self.data.head())
 
     def check_dataframe_format(self):
@@ -193,6 +230,11 @@ class LandonBot:
             'Bollinger Lower': 'float32',
             'Stochastic Oscillator': 'float32'
         }
+
+        for col, expected_dtype in self.expected_columns.items():
+            if col in self.data.columns and self.data[col].dtype != expected_dtype:
+                logging.warning(
+                    f"Column {col} has incorrect dtype. Expected {expected_dtype}, got {self.data[col].dtype}")
 
         for col in expected_columns.keys():
             if col not in self.data.columns:

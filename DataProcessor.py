@@ -47,22 +47,49 @@ class DataProcessor:
 
     def process_message(self, message):
         try:
-            if not isinstance(message, (pd.DataFrame, pd.Series)):
-                logging.error(f"Expected message to be a DataFrame or Series, but got {type(message)}")
-                if isinstance(message, dict):
-                    message = pd.DataFrame([message])
-                    for col in expected_columns:
-                        if col not in message.columns:
-                            message[col] = np.nan
+            # Convert message to DataFrame if it's a dict
+            if isinstance(message, dict):
+                message = pd.DataFrame([message])
 
-            # At this point, 'message' must be a DataFrame, append to list
+            # Ensure message is a DataFrame
+            if not isinstance(message, pd.DataFrame):
+                logging.error(f"Expected message to be a DataFrame, but got {type(message)}")
+                return
+
+            # Validate and convert 'timestamp' and 'symbol' columns
+            if 'timestamp' in message.columns:
+                message['timestamp'] = pd.to_datetime(message['timestamp'], errors='coerce')
+            else:
+                message['timestamp'] = pd.NaT  # Use NaT (Not a Time) for missing timestamps
+
+            if 'symbol' in message.columns:
+                message['symbol'] = message['symbol'].astype('object')
+            else:
+                message['symbol'] = np.nan
+
+            # Validate and convert other columns
+            for col, dtype in expected_columns.items():
+                if col in message.columns and dtype != 'object':
+                    message[col] = pd.to_numeric(message[col], errors='coerce')
+                    if dtype == 'int64':
+                        message[col] = message[col].fillna(0).astype(int)
+                    elif dtype == 'bool':
+                        message[col] = message[col].astype(bool)
+                else:
+                    message[col] = message[col].astype(dtype)
+
+            # Append the processed message to the list
             self.processed_data_list.append(message)
 
-            # When enough data is collected
+            # Process data when enough messages are collected
             if len(self.processed_data_list) >= self.window_size:
-                self.data_df = pd.concat(self.processed_data_list).astype(expected_columns)
+                self.data_df = pd.concat(self.processed_data_list, ignore_index=True)
                 self.processed_data_list = []
                 self.calculate_technical_indicators()
+
+                # Enqueue the latest data
+                self.data_queue.put(self.data_df.iloc[-1:])
+                logging.info("Data enqueued. Queue size: %d", self.data_queue.qsize())
 
                 # Handling non-finite values and ensuring correct data types
                 self.data_df['side'] = pd.to_numeric(self.data_df['side'], errors='coerce').fillna(0).astype(int)
@@ -73,44 +100,47 @@ class DataProcessor:
                     int)
                 self.data_df['is_buy_trade'] = self.data_df['is_buy_trade'].astype(bool)
 
-            self.data_queue.put(self.data_df.tail(1))
+            self.data_queue.put(self.data_df.iloc[-1:])
             logging.info("Data enqueued. Queue size: %d", self.data_queue.qsize())
             logging.debug("Enqueued data: %s", message)
 
             if self.technical_indicators_calculated:
-                if self.data_df['RSI'].iloc[-1] > 70:
-                    logging.info(f"Overbought RSI: {self.data_df['RSI'].iloc[-1]}")
-                elif self.data_df['RSI'].iloc[-1] < 30:
-                    logging.info(f"Oversold RSI: {self.data_df['RSI'].iloc[-1]}")
-                if self.data_df['MACD'].iloc[-1] > self.data_df['MACDSIGNAL'].iloc[-1]:
+                last_row = self.data_df.iloc[-1]
+                if last_row['RSI'] > 70:
+                    logging.info(f"Overbought RSI: {last_row['RSI']}")
+                elif last_row['RSI'] < 30:
+                    logging.info(f"Oversold RSI: {last_row['RSI']}")
+                if last_row['MACD'] > last_row['MACDSIGNAL']:
                     logging.info(
-                        f"MACD crossover: {self.data_df['MACD'].iloc[-1]} (MACD) > {self.data_df['MACDSIGNAL'].iloc[-1]} (Signal)")
-                elif self.data_df['MACD'].iloc[-1] < self.data_df['MACDSIGNAL'].iloc[-1]:
+                        f"MACD crossover: {last_row['MACD']} (MACD) > {last_row['MACDSIGNAL']} (Signal)")
+                elif last_row['MACD'] < last_row['MACDSIGNAL']:
                     logging.info(
-                        f"MACD crossunder: {self.data_df['MACD'].iloc[-1]} (MACD) < {self.data_df['MACDSIGNAL'].iloc[-1]} (Signal)")
-                if self.data_df['price'].iloc[-1] > self.data_df['Bollinger Upper'].iloc[-1]:
+                        f"MACD crossunder: {last_row['MACD']} (MACD) < {last_row['MACDSIGNAL']} (Signal)")
+                if last_row['price'] > last_row['Bollinger Upper']:
                     logging.info(
-                        f"Price above upper Bollinger Band: {self.data_df['price'].iloc[-1]} > {self.data_df['Bollinger Upper'].iloc[-1]}")
-                elif self.data_df['price'].iloc[-1] < self.data_df['Bollinger Lower'].iloc[-1]:
+                        f"Price above upper Bollinger Band: {last_row['price']} > {last_row['Bollinger Upper']}")
+                elif last_row['price'] < last_row['Bollinger Lower']:
                     logging.info(
-                        f"Price below lower Bollinger Band: {self.data_df['price'].iloc[-1]} < {self.data_df['Bollinger Lower'].iloc[-1]}")
-                if self.data_df['Stochastic K'].iloc[-1] > 80:
-                    logging.info(f"Stochastic Overbought: %K = {self.data_df['Stochastic K'].iloc[-1]}")
-                elif self.data_df['Stochastic K'].iloc[-1] < 20:
-                    logging.info(f"Stochastic Oversold: %K = {self.data_df['Stochastic K'].iloc[-1]}")
-                if self.data_df['Stochastic K'].iloc[-1] > self.data_df['Stochastic D'].iloc[-1]:
+                        f"Price below lower Bollinger Band: {last_row['price']} < {last_row['Bollinger Lower']}")
+                if last_row['Stochastic K'] > 80:
+                    logging.info(f"Stochastic Overbought: %K = {last_row['Stochastic K']}")
+                elif last_row['Stochastic K'] < 20:
+                    logging.info(f"Stochastic Oversold: %K = {last_row['Stochastic K']}")
+                if last_row['Stochastic K'] > last_row['Stochastic D']:
                     logging.info(
-                        f"Stochastic Crossover: %K = {self.data_df['Stochastic K'].iloc[-1]} > %D = {self.data_df['Stochastic D'].iloc[-1]}")
-                elif self.data_df['Stochastic K'].iloc[-1] < self.data_df['Stochastic D'].iloc[-1]:
+                        f"Stochastic Crossover: %K = {last_row['Stochastic K']} > %D = {last_row['Stochastic D']}")
+                elif last_row['Stochastic K'] < last_row['Stochastic D']:
                     logging.info(
-                        f"Stochastic Crossunder: %K = {self.data_df['Stochastic K'].iloc[-1]} < %D = {self.data_df['Stochastic D'].iloc[-1]}")
+                        f"Stochastic Crossunder: %K = {last_row['Stochastic K']} < %D = {last_row['Stochastic D']}")
 
 
         except AttributeError as e:
             logging.error(f"AttributeError in process_message: {e}")
+        except KeyError as ke:
+            logging.error(f"KeyError: {ke}")
+            # Add handling for missing 'timestamp' or other columns
         except Exception as e:
             logging.error(f"Unexpected error in process_message: {e}")
-        
 
     def fetch_bybit_data(self):
         try:
@@ -171,16 +201,18 @@ class DataProcessor:
         for col, expected_type in expected_columns.items():
             if col in self.data_df.columns:
                 col_type = self.data_df[col].dtype
-                if not isinstance(col_type, np.dtype):  # Check if col_type is not a numpy dtype object
+                if not pd.api.types.is_numeric_dtype(col_type):
                     logging.error(f"The dtype of column {col} is not valid: {type(self.data_df[col])}")
-                    continue  # Skip this iteration
-                if str(col_type) != expected_type:
+                    continue
+
+                if not np.issubdtype(col_type, np.dtype(expected_type)):
                     logging.warning(
                         f"Unexpected data type for column {col}. Expected {expected_type} but got {col_type}")
 
     def on_message(self, ws, message):
         try:
             data = json.loads(message)
+            logging.debug(f"Received WebSocket message: {data}")
             logging.info("Received a message")
 
             self.process_data_message(data)
@@ -195,6 +227,7 @@ class DataProcessor:
             logging.error(f"Error processing WebSocket message: {e}")
 
     def process_data_message(self, data):
+        logging.debug(f"Data received in process_data_message: {data}")
         try:
             if 'topic' in data and data['topic'] == 'publicTrade.BTCUSDT':
                 for trade_data in data['data']:
@@ -212,9 +245,14 @@ class DataProcessor:
                         'trade_id': trade_data['i'],
                         'is_buy_trade': trade_data['BT']
                     }
-                    # Log the type of processed_data to ensure it's a dict
-                    logging.debug(f"Type of processed_data: {type(processed_data)}")
-                    self.process_message(processed_data)
+
+                    # Convert processed_data to DataFrame
+                    processed_data_df = pd.DataFrame(
+                        [processed_data])  # Wrapping in a list to create a single-row DataFrame
+
+                    # Log the type of processed_data_df to ensure it's a DataFrame
+                    logging.debug(f"Type of processed_data_df: {type(processed_data_df)}")
+                    self.process_message(processed_data_df)
         except AttributeError as e:
             logging.error(f"AttributeError in process_data_message: {e}")
         except Exception as e:
